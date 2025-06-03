@@ -1,0 +1,959 @@
+url,tipo,objetivo,preco,area_util,area_total,Quartos,Banheiros,Suites,Garagens,Cidade,Bairro,Piscina,Copa,Cozinha,Sala de estar,Sala de jantar,Sala de visitas
+https://www.imobiliariatradicao.com.br/Imovel/11007,Apartamento,Venda,298000.0,48.0,,2.0,1.0,,2.0,Araras,Fazenda Santa Terezinha,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11028,Casa,Venda,710000.0,330.0,220.0,3.0,1.0,1.0,2.0,Araras,Santa Olívia,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11006,Apartamento,Venda,43000.0,,,2.0,1.0,,1.0,Araras,Jd. Celina,Sim,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11017,Casa,Venda,550000.0,175.0,250.0,3.0,1.0,1.0,3.0,Araras,Rosana,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11030,Apartamento,Venda,330000.0,57.0,,2.0,1.0,1.0,1.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11025,Apartamento,Venda,1300000.0,132.8,,,1.0,2.0,,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11015,Casa,Venda,410000.0,192.0,250.0,2.0,1.0,,3.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11047,Casa,Venda,550000.0,198.9,250.0,3.0,2.0,1.0,4.0,Araras,Jardim das Flores,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10973,Apartamento,Venda,170000.0,42.0,,2.0,1.0,,1.0,Araras,Parque Industrial,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10993,Casa,Venda,580000.0,164.7,275.0,2.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10992,Casa,Venda,426000.0,,200.0,3.0,2.0,1.0,4.0,Araras,Flamboyant,Sim,Não,Sim,Não,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/10980,Casa,Venda,192000.0,,250.0,1.0,2.0,,2.0,Araras,Esplanada,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10986,Apartamento,Venda,630000.0,120.0,,3.0,1.0,1.0,2.0,Araras,Ed Alamanda,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10985,Casa,Venda,320000.0,87.0,125.0,2.0,1.0,1.0,2.0,Araras,Dalla Costa,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10975,Apartamento,Venda,360000.0,57.0,,2.0,1.0,1.0,1.0,Araras,Campinho,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10991,Casa,Venda,192000.0,72.0,125.0,2.0,2.0,1.0,2.0,Araras,Esplanada,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10971,Casa,Venda,420000.0,170.0,250.0,3.0,2.0,1.0,2.0,Araras,Santa Marta,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10956,Casa,Venda,350000.0,151.1,180.13,4.0,1.0,,2.0,Araras,Bela Vista,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10965,Casa,Venda,950000.0,318.45,249.6,3.0,2.0,1.0,3.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10969,Casa,Venda,280000.0,99.97,126.9,2.0,1.0,,2.0,Araras,Haise Maria,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10970,Apartamento,Venda,138000.0,42.0,,2.0,1.0,,1.0,Araras,Costa Verde,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10958,Apartamento,Venda,1370000.0,128.3,,,1.0,3.0,3.0,Araras,Centro,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10960,Apartamento,Venda,430000.0,160.0,,3.0,2.0,1.0,2.0,Araras,Costa Verde,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10967,Casa,Venda,170000.0,85.0,125.0,2.0,1.0,,2.0,Araras,Esplanada,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10928,Apartamento,Venda,190000.0,63.58,,2.0,1.0,,1.0,Araras,Parque das Árvores (Alto das Araras),Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10942,Apartamento,Venda,230000.0,58.0,,2.0,1.0,,1.0,Araras,São João,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10932,Casa,Venda,2000000.0,307.3,887.1,3.0,3.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10931,Casa,Venda,350000.0,131.0,257.3,3.0,2.0,,,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10926,Casa,Venda,640000.0,152.1,324.0,2.0,2.0,1.0,2.0,Araras,Santa Olivia,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10934,Casa,Venda,585000.0,193.0,250.0,3.0,1.0,1.0,2.0,Araras,Santa Elisa,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10921,Casa,Venda,380000.0,128.5,300.0,2.0,1.0,1.0,3.0,Araras,Ipês,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10953,Apartamento,Venda,210000.0,49.0,,,,,,Araras,Celina,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10905,Apartamento,Venda,600000.0,97.0,,3.0,1.0,1.0,2.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10903,Casa,Venda,265000.0,114.72,125.0,2.0,1.0,1.0,2.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10912,Casa,Venda,240000.0,71.0,380.0,1.0,,,2.0,Araras,Cândida,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10920,Apartamento,Venda,298000.0,70.0,,2.0,1.0,,2.0,Araras,Fátima,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10919,Casa,Venda,530000.0,183.39,252.0,3.0,1.0,1.0,2.0,Araras,São João,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10917,Casa,Venda,550000.0,230.0,285.0,3.0,2.0,1.0,2.0,Araras,Itapuã,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10916,Apartamento,Venda,209000.0,45.0,209.0,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10904,Apartamento,Venda,210000.0,49.0,,2.0,1.0,,1.0,Araras,Terras de Carolina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10890,Casa,Venda,160000.0,70.0,250.0,2.0,1.0,,2.0,Araras,Nações II,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10891,Apartamento,Venda,240000.0,49.0,,2.0,1.0,,1.0,Araras,São João,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10894,Casa,Venda,1500000.0,170.0,334.0,3.0,1.0,1.0,2.0,Araras,Samantha III,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10883,Casa,Venda,320000.0,72.0,250.0,1.0,1.0,,4.0,Araras,Esmeraldas,Sim,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10884,Casa,Venda,490000.0,120.0,250.0,3.0,1.0,1.0,2.0,Araras,São Pedro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10899,Apartamento,Venda,190000.0,42.0,,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10882,Casa,Venda,255000.0,108.64,125.0,3.0,1.0,,2.0,Araras,São Nicolau,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10885,Apartamento,Venda,250000.0,59.0,,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10868,Casa,Venda,240000.0,58.5,270.0,1.0,1.0,,2.0,Araras,Belvedere,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10880,Apartamento,Venda,375000.0,55.0,,2.0,1.0,1.0,1.0,Araras,Cândida,Não,Não,Não,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10873,Casa,Venda,600000.0,239.5,414.0,,,,,Araras,Belvedere,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10863,Apartamento,Venda,160000.0,55.0,,2.0,1.0,,1.0,Araras,Jardim das Flores,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10859,Casa,Venda,310000.0,200.0,360.0,2.0,1.0,,2.0,Araras,Cândida,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10860,Casa,Venda,780000.0,296.0,300.0,3.0,2.0,1.0,3.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10862,Casa,Venda,355000.0,131.2,160.0,3.0,1.0,1.0,1.0,Araras,Ouro Verde,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10865,Apartamento,Venda,260000.0,49.0,,2.0,1.0,1.0,1.0,Araras,Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10852,Casa,Venda,800000.0,265.0,360.0,3.0,2.0,1.0,4.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10844,Casa,Venda,350000.0,297.39,300.0,3.0,1.0,,2.0,Araras,Sobradinho,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10850,Casa,Venda,600000.0,120.0,350.0,,,,,Araras,Centro,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10853,Apartamento,Venda,170000.0,42.0,,2.0,1.0,,1.0,Araras,Narciso Gomes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10849,Casa,Venda,250000.0,99.09,150.0,2.0,1.0,,1.0,Araras,Bom Jesus,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10847,Casa,Venda,500000.0,140.54,313.0,3.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10855,Casa,Venda,350000.0,234.82,400.0,3.0,1.0,,2.0,Araras,Jardim dos Ipês,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10848,Casa,Venda,300000.0,168.5,200.0,3.0,1.0,,2.0,Araras,José Ometto II,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10828,Casa,Venda,1280000.0,379.38,270.0,5.0,2.0,2.0,4.0,Araras,Nova Suiça,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10824,Casa,Venda,790000.0,250.0,412.5,2.0,1.0,1.0,3.0,Araras,Parque das Árvores,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10842,Casa,Venda,450000.0,169.0,337.5,3.0,2.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10836,Casa,Venda,550000.0,99.4,405.9,3.0,1.0,,1.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10823,Apartamento,Venda,240000.0,50.0,,2.0,1.0,,1.0,Araras,Maria Rosa (Arboreto),Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10838,Casa,Venda,250000.0,168.0,397.0,3.0,1.0,,2.0,Araras,Belvedere,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10832,Apartamento,Venda,160000.0,42.0,,2.0,1.0,,1.0,Araras,Jd Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10833,Casa,Venda,285000.0,88.46,131.16,2.0,2.0,,1.0,Araras,Buzolin,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10817,Apartamento,Venda,200000.0,79.99,,2.0,1.0,,1.0,Araras,Belvedere,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10809,Casa,Venda,195000.0,45.0,160.0,2.0,1.0,,2.0,Araras,Jardim das Araucarias,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10820,Casa,Venda,650000.0,102.0,250.0,3.0,1.0,1.0,4.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10819,Apartamento,Venda,180000.0,42.0,,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10804,Apartamento,Venda,230000.0,50.0,,2.0,1.0,,1.0,Araras,São João,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10822,Casa,Venda,310000.0,176.1,250.0,3.0,1.0,,1.0,Araras,Copacabana,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10816,Casa,Venda,680000.0,230.0,308.0,4.0,1.0,2.0,2.0,Araras,Encosta do Sol,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10811,Casa,Venda,470000.0,170.0,250.0,3.0,2.0,1.0,2.0,Araras,Parque das Árvores,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10797,Casa,Venda,890000.0,295.9,250.0,3.0,4.0,1.0,2.0,Araras,Alvorada,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10793,Casa,Venda,400000.0,140.0,220.0,3.0,1.0,1.0,2.0,Araras,Vila Rica,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10777,Casa,Venda,250000.0,61.99,125.0,2.0,1.0,,1.0,Araras,Dom Bosco,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10795,Apartamento,Venda,150000.0,42.0,,2.0,1.0,,1.0,Araras,Narciso Gomes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10782,Casa,Venda,795000.0,148.67,272.54,3.0,1.0,1.0,2.0,Araras,Vila Inglesa,Sim,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10800,Apartamento,Venda,380000.0,55.0,,2.0,1.0,1.0,1.0,Araras,Candida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10799,Casa,Venda,300000.0,165.1,200.0,3.0,1.0,,1.0,Araras,Versalles,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10801,Apartamento,Venda,145000.0,55.0,,2.0,1.0,,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10756,Apartamento,Venda,150000.0,65.0,,,,,,Araras,08 de Abril,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10773,Casa,Venda,360000.0,308.28,350.0,,,,,Araras,Candida,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10765,Casa,Venda,745000.0,241.0,406.9,3.0,1.0,,4.0,Araras,Abolição,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10761,Casa,Venda,700000.0,168.84,250.0,2.0,1.0,1.0,2.0,Araras,Abolição,Sim,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10762,Apartamento,Venda,160000.0,42.0,,2.0,1.0,,1.0,Araras,Narciso Gomes (Angra dos Reis),Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10754,Apartamento,Venda,210000.0,60.0,,2.0,1.0,,1.0,Araras,Jd. 08 de Abril,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10769,Casa,Venda,290000.0,142.08,300.0,3.0,1.0,,1.0,Araras,Belvedere,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10772,Apartamento,Venda,240000.0,47.9,,2.0,1.0,,1.0,Araras,Jardim Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10735,Apartamento,Venda,240000.0,,63.0,2.0,1.0,,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10734,Apartamento,Venda,270000.0,,65.0,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10753,Casa,Venda,670000.0,188.56,250.0,3.0,1.0,1.0,2.0,Araras,Abolição,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10731,Casa,Venda,300000.0,104.0,160.0,1.0,3.0,,2.0,Araras,Tiradentes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10730,Casa,Venda,380000.0,157.2,414.54,3.0,1.0,,1.0,Araras,Centro,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10724,Casa,Venda,270000.0,150.0,250.0,2.0,1.0,,2.0,Araras,Copacabana,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11035,Apartamento,locacao,1800.0,,,2.0,1.0,1.0,1.0,Araras,Jacarandás,Sim,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11036,Apartamento,locacao,900.0,,,2.0,1.0,,1.0,Araras,Alto das Araras(ed Barcelona),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11050,Apartamento,locacao,1100.0,,,2.0,1.0,,1.0,Araras,Jd Tarumã (Encosta do Sol),Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11046,Casa,locacao,800.0,,,1.0,1.0,,,Araras,Cândida,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11038,Apartamento,locacao,4000.0,,,2.0,2.0,1.0,2.0,Araras,Plaza Alta,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11048,Apartamento,locacao,1500.0,,,2.0,1.0,1.0,1.0,Araras,Jd. Boa Esperança (Ed. Alto da Colina),Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11034,Apartamento,locacao,750.0,,,2.0,1.0,,1.0,Araras,Centro (Ernesto),Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11037,Casa,locacao,2600.0,,,,,,,Araras,Vila Bressan,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11021,Apartamento,locacao,1200.0,,,,,,,Araras,Celina (Iris do Campo),Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11022,Apartamento,locacao,1200.0,,,2.0,1.0,1.0,1.0,Araras,Sítios de Recreio Independência (Begônias do Campo),Sim,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11023,Apartamento,locacao,600.0,,,2.0,1.0,,1.0,Araras,Abolição (Arvoredo),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11027,Apartamento,locacao,750.0,,,2.0,1.0,,1.0,Araras,8 de Abril(ed Enzo),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11033,Apartamento,locacao,1200.0,,,2.0,1.0,1.0,1.0,Araras,Sítios de Recreio Independência (Begônias do Campo),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11032,Apartamento,locacao,1200.0,,,2.0,1.0,,1.0,Araras,Sítios de Recreio Independência (Begônias do Campo),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11024,Apartamento,locacao,950.0,55.0,,2.0,1.0,,1.0,Araras,Buzolin (Parque das Flores),Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11011,Casa,locacao,1400.0,,,2.0,1.0,,1.0,Araras,Fátima,Não,Não,Sim,Não,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/11000,Casa,locacao,3000.0,,,2.0,2.0,1.0,2.0,Araras,Alto das Araras(villágio Italia),Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11016,Apartamento,locacao,1600.0,,,,,,,Araras,Terras de Carolina (Campanet),Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11002,Apartamento,locacao,1800.0,82.0,,2.0,1.0,1.0,2.0,Araras,Cândida (Ouro Branco),Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11014,Casa,locacao,5000.0,,,4.0,,1.0,,Araras,Chácara Daltro,Não,Sim,Sim,Sim,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/10997,Apartamento,locacao,1150.0,48.0,,2.0,1.0,,1.0,Araras,Celina (Iris do Campo),Sim,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11009,Casa,locacao,3500.0,,,2.0,1.0,,2.0,Araras,Campos Verdes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11004,Apartamento,locacao,1400.0,,,2.0,1.0,1.0,1.0,Araras,Centro (Terezinha Ulson),Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10957,Apartamento,locacao,2800.0,,,,,,,Araras,Candida (Ed Rubi),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10977,Casa,locacao,2300.0,,,3.0,2.0,,,Araras,Haise Maria,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10976,Casa,locacao,2000.0,,,3.0,1.0,,,Araras,Centro,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10962,Casa,locacao,2950.0,,,3.0,2.0,1.0,2.0,Araras,Celina (Sonho Meu),Não,Sim,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10978,Apartamento,locacao,2600.0,,,2.0,1.0,,1.0,Araras,Belvedere (São Pedro),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10994,Casa,locacao,1800.0,,,2.0,1.0,,3.0,Araras,Jardim Apolo,Não,Sim,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10987,Apartamento,locacao,1800.0,,,2.0,1.0,1.0,1.0,Araras,8 de Abril (Las Vegas),Não,Sim,Sim,Sim,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/10989,Casa,locacao,2300.0,,,3.0,1.0,,3.0,Araras,Cândida,Não,Sim,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10933,Casa,locacao,690.0,,,1.0,1.0,,2.0,Araras,José Ometto I,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10923,Casa,locacao,2500.0,,,3.0,2.0,,1.0,Araras,Centro,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10909,Casa,locacao,2700.0,,,3.0,2.0,1.0,1.0,Araras,Vila Rodini,Não,Sim,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10950,Apartamento,locacao,1500.0,,,2.0,1.0,,1.0,Araras,Sítios de Recreio Independência (Begônias do Campo),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10918,Casa,locacao,2900.0,,,3.0,,1.0,,Araras,Rosana (Candida),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10945,Apartamento,locacao,2800.0,,,2.0,2.0,1.0,1.0,Araras,Jacarandás,Sim,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10937,Apartamento,locacao,3150.0,,,2.0,1.0,1.0,1.0,Araras,Mirante da Lagoa,Não,Não,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10814,Apartamento,locacao,5700.0,132.8,,3.0,,3.0,2.0,Araras,Centro (Vitrallis),Sim,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10872,Apartamento,locacao,800.0,,,2.0,1.0,,1.0,Araras,Jacaranda 8 de Abril,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11052,Apartamento,locacao,1500.0,51.0,,2.0,1.0,,1.0,Araras,Buzolin (Parque das Orquídeas),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10878,Apartamento,locacao,450.0,,,1.0,,,,Araras,Centro,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10879,Casa,locacao,750.0,,,1.0,1.0,,,Araras,Vila Michelin,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10895,Casa,locacao,1300.0,,,2.0,1.0,,2.0,Araras,Esmeralda,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10839,Apartamento,locacao,900.0,44.0,,2.0,1.0,,1.0,Araras,Buzolin (Parque das Palmeiras),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10901,Apartamento,locacao,1400.0,,,2.0,1.0,,1.0,Araras,Celina (Pq Alvorada),Sim,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10845,Casa,locacao,1500.0,,,2.0,1.0,1.0,1.0,Araras,Santa Olívia II,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10766,Casa,locacao,1150.0,,,2.0,1.0,,1.0,Araras,Parque Tiradentes,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10813,Apartamento,locacao,6200.0,132.8,,3.0,,3.0,2.0,Araras,Centro (Vitrallis),Sim,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10776,Apartamento,locacao,2300.0,,146.0,2.0,2.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Sim,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/10775,Casa,locacao,600.0,,,2.0,1.0,,,Araras,José Ometto I,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10771,Apartamento,locacao,1100.0,50.0,,2.0,1.0,,1.0,Araras,São João (Cerejeiras),Sim,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10781,Apartamento,locacao,2500.0,,,,,,,Araras,Itapuã (Residencial Menezes),Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10722,Apartamento,locacao,3000.0,,,3.0,2.0,1.0,2.0,Araras,Cândida (Ed Rubi),Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10614,Apartamento,locacao,800.0,25.0,,,,,,Araras,Rosana (Kitnet),Não,Sim,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10631,Apartamento,locacao,2100.0,55.0,,2.0,2.0,1.0,1.0,Araras,Vila Candinha (Mangabeiras),Sim,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10742,Casa,locacao,600.0,,,1.0,1.0,,,Araras,Jose Ometto,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10653,Casa,locacao,1700.0,,,2.0,2.0,,2.0,Araras,Chácara Daltro,Não,Sim,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10737,Apartamento,locacao,2900.0,,,3.0,1.0,1.0,2.0,Araras,Centro(ed Itapuã),Não,Não,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10615,Casa,locacao,2800.0,,,3.0,2.0,,1.0,Araras,Centro,Não,Sim,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10617,Apartamento,locacao,1100.0,45.0,,2.0,1.0,,1.0,Araras,Narciso Gomes (Ed Angra dos Reis),Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10427,Casa,locacao,1200.0,,,,,,,Araras,Jardim Belvedere,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10508,Apartamento,locacao,1300.0,44.0,,2.0,1.0,,1.0,Araras,Buzolin (Parque das Palmeiras),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10395,Casa,locacao,4000.0,246.72,387.62,4.0,1.0,1.0,2.0,Araras,Santa Olivia,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10604,Casa,locacao,3000.0,,,3.0,2.0,1.0,4.0,Araras,Cândida,Não,Sim,Sim,Sim,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/10422,Casa,Venda,1000.0,104.56,125.0,2.0,1.0,,2.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10539,Apartamento,locacao,1350.0,,,2.0,1.0,,1.0,Araras,Terras de Carolina (Campanet),Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10600,Apartamento,Venda,1100.0,42.0,,2.0,1.0,,1.0,Araras,Narciso Gomes (Angra dos Reis),Sim,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10584,Casa,locacao,550.0,,,1.0,1.0,,,Araras,Parque Industrial,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10389,Casa,Venda,2000.0,113.0,285.0,,1.0,2.0,2.0,Araras,Universitário,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10117,Apartamento,locacao,1200.0,50.0,,2.0,1.0,,1.0,Araras,São João (CEREJEIRAS),Sim,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10012,Apartamento,Venda,1000.0,75.0,,2.0,1.0,1.0,1.0,Araras,São João (Eco Garden),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/9899,Casa,locacao,1700.0,,,2.0,1.0,,2.0,Araras,Ypês,Não,Sim,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10292,Casa,Venda,1000.0,65.0,125.0,2.0,1.0,,2.0,Araras,Esmeralda,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10149,Apartamento,locacao,1100.0,44.0,,2.0,1.0,,1.0,Araras,Buzolin (Parque das Palmeiras),Sim,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/9644,Apartamento,locacao,2300.0,,,2.0,1.0,1.0,1.0,Araras,Mirante da Lagoa,Não,Não,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10210,Casa,Venda,1700.0,85.0,125.0,2.0,1.0,1.0,2.0,Araras,Terra Nobre II,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8903,Casa,locacao,1400.0,,,2.0,1.0,,2.0,Araras,Jardim Tarumã,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9580,Apartamento,locacao,2800.0,,,2.0,1.0,1.0,1.0,Araras,Mirante da Lagoa,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/9445,Apartamento,locacao,3000.0,,,2.0,1.0,1.0,1.0,Araras,Cândida (Mirante da Lagoa),Não,Não,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9206,Casa,locacao,1900.0,,,3.0,2.0,,3.0,Araras,Centro,Não,Sim,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/9516,Casa,locacao,1600.0,,,2.0,2.0,,2.0,Araras,Fátima,Não,Sim,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/9537,Apartamento,locacao,1200.0,,,2.0,1.0,,1.0,Araras,Parque Arvoredo,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/9160,Apartamento,locacao,900.0,45.0,,2.0,1.0,,1.0,Araras,Industrial (Atuali),Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9487,Apartamento,locacao,1200.0,,,2.0,1.0,,1.0,Araras,Parque das Palmeiras,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/8503,Casa,locacao,1300.0,,,3.0,1.0,,2.0,Araras,Narciso Gomes,Não,Sim,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/8741,Casa,locacao,2500.0,,,2.0,2.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8351,Apartamento,locacao,550.0,,,1.0,1.0,,1.0,Araras,8 de Abril (Univ),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/7862,Casa,locacao,4500.0,,,3.0,3.0,1.0,4.0,Araras,Cândida,Não,Sim,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/7845,Apartamento,locacao,1300.0,,,2.0,1.0,,1.0,Araras,Buzolin (Parque das Palmeiras),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/7761,Casa,locacao,2400.0,,,3.0,2.0,1.0,2.0,Araras,Jardim Cândida,Não,Sim,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/8730,Apartamento,locacao,980.0,,,2.0,1.0,,1.0,Araras,Industrial (Atuali),Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8346,Casa,Venda,3300.0,360.0,348.0,3.0,1.0,,2.0,Araras,Buzolin,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/2146,Casa,locacao,2900.0,,,2.0,1.0,1.0,2.0,Araras,Jardim das Flores,Não,Sim,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3834,Casa,locacao,450.0,,,1.0,1.0,,,Araras,Cândida,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/4985,Casa,Venda,1250.0,90.0,125.0,2.0,1.0,,2.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4319,Casa,locacao,1300.0,,,3.0,2.0,,3.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3104,Casa,Venda,3200.0,85.0,105.0,2.0,1.0,,1.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4303,Casa,locacao,1400.0,,,2.0,1.0,1.0,2.0,Araras,Luiza Maria,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3427,Casa,Venda,15000.0,,,4.0,,2.0,,Araras,Cândida,Não,Sim,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/2041,Casa,locacao,1500.0,,,1.0,1.0,,1.0,Araras,Luiza Maria,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5131,Casa,locacao,1350.0,,,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1748,Apartamento,locacao,1900.0,,,2.0,1.0,1.0,1.0,Araras,Jd Candida (São Matheus),Não,Não,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1309,Apartamento,Venda,550.0,30.0,,1.0,1.0,,1.0,Araras,8 de Abril (Mateus),Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1802,Apartamento,locacao,1700.0,86.0,,2.0,1.0,,1.0,Araras,Jatobá,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/1727,Apartamento,locacao,1800.0,,,2.0,2.0,,1.0,Araras,Cândida,Não,Sim,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/1352,Apartamento,locacao,1800.0,,,2.0,1.0,,1.0,Araras,Santa Elisa (Garden State),Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/1320,Apartamento,locacao,850.0,55.0,,2.0,1.0,,1.0,Araras,8 de Abril (Aguineli),Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/1595,Apartamento,locacao,1800.0,,,2.0,1.0,1.0,1.0,Araras,Jacarandás,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/1150,Apartamento,locacao,4500.0,,,3.0,1.0,3.0,2.0,Araras,Centro (Vitrallis),Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/105,Apartamento,locacao,2200.0,,,3.0,1.0,1.0,2.0,Araras,Centro (Safira),Não,Não,Sim,Não,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/943,Apartamento,locacao,1600.0,,,2.0,1.0,1.0,1.0,Araras,Centro (Spazio),Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/837,Apartamento,locacao,900.0,,,2.0,1.0,,,Araras,8 de Abril (Santa Tereza),Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/160,Apartamento,locacao,850.0,,,1.0,1.0,,,Araras,Garden Loft,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/159,Apartamento,locacao,850.0,,,1.0,1.0,,,Araras,Garden Loft (Jardim 8 de Abril),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/186,Apartamento,locacao,2800.0,,,3.0,1.0,,2.0,Araras,Candida (Ed Rubi),Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/862,Apartamento,locacao,2000.0,,,2.0,1.0,,1.0,Araras,Cândida (Ouro Branco),Não,Sim,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10723,Apartamento,Venda,562000.0,72.0,,2.0,1.0,1.0,2.0,Araras,Belvedere,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10728,Casa,Venda,400000.0,302.0,125.0,5.0,2.0,1.0,2.0,Araras,Alto da Colina,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10697,Casa,Venda,250000.0,110.1,160.0,2.0,1.0,,2.0,Araras,Parque Tiradentes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10720,Casa,Venda,900000.0,292.32,573.6,2.0,1.0,,2.0,Araras,Centro,Não,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10713,Casa,Venda,620000.0,188.76,275.0,3.0,1.0,1.0,2.0,Araras,Santa Elisa,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10705,Apartamento,Venda,590000.0,,135.08,3.0,2.0,1.0,2.0,Araras,Costa Verde,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10707,Casa,Venda,550000.0,139.18,420.0,2.0,1.0,,1.0,Araras,Centro,Não,Não,Não,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10694,Casa,Venda,420000.0,145.0,250.0,3.0,1.0,1.0,2.0,Araras,Santo André,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10693,Apartamento,Venda,140000.0,42.0,,2.0,1.0,,1.0,Araras,Narciso Gomes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10708,Casa,Venda,500000.0,179.1,299.0,,,,,Araras,Belvedere,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10691,Casa,Venda,250000.0,111.72,131.88,2.0,1.0,1.0,2.0,Araras,Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10673,Apartamento,Venda,550000.0,180.0,,3.0,2.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10664,Casa,Venda,400000.0,140.0,313.0,3.0,1.0,,2.0,Araras,Centro,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10676,Apartamento,Venda,380000.0,57.0,,2.0,1.0,,1.0,Araras,Cândida,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10690,Apartamento,Venda,230000.0,55.0,,2.0,1.0,,1.0,Araras,Parque Industrial,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10679,Casa,Venda,230000.0,133.4,250.0,,1.0,1.0,1.0,Araras,Luiza Maria,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10689,Casa,Venda,498000.0,146.98,251.55,3.0,1.0,1.0,2.0,Araras,Dalla Costa,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10685,Casa,Venda,400000.0,113.0,200.0,3.0,1.0,1.0,2.0,Santa Cruz da Conceicao,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10661,Apartamento,Venda,178000.0,42.0,,2.0,1.0,,1.0,Araras,Narciso Gomes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10660,Casa,Venda,220000.0,105.2,160.0,3.0,1.0,,2.0,Araras,Warley Colombini,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10663,Casa,Venda,410000.0,167.0,250.0,3.0,1.0,1.0,2.0,Araras,Santa Marta,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10650,Casa,Venda,170000.0,120.0,200.0,2.0,1.0,,3.0,Araras,Jair Della Colleta,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10648,Casa,Venda,450000.0,194.1,285.12,2.0,1.0,,4.0,Araras,Olivia Park,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10647,Casa,Venda,360000.0,250.0,405.0,3.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10655,Apartamento,Venda,160000.0,42.0,,2.0,1.0,,1.0,Araras,Narciso Gomes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10652,Apartamento,Venda,1500000.0,132.8,,,1.0,3.0,3.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10640,Casa,Venda,650000.0,215.6,352.3,3.0,1.0,1.0,4.0,Araras,Santa Candida,Não,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10621,Casa,Venda,450000.0,218.56,275.0,3.0,1.0,1.0,2.0,Araras,Olivia Park,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10638,Casa,Venda,450000.0,150.0,200.0,2.0,1.0,,2.0,Araras,Monte Verde,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10634,Casa,Venda,375000.0,200.0,250.0,2.0,2.0,1.0,4.0,Araras,Olivia Park,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10637,Casa,Venda,170000.0,65.0,125.0,2.0,1.0,,2.0,Araras,Piratininga,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10623,Casa,Venda,260000.0,150.97,300.0,3.0,1.0,,1.0,Araras,Cândida,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10622,Apartamento,Venda,684000.0,120.0,,3.0,1.0,1.0,2.0,Araras,Alto das Araras,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10630,Apartamento,Venda,250000.0,50.0,,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10605,Casa,Venda,550000.0,164.89,237.8,2.0,1.0,,3.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10578,Casa,Venda,340000.0,170.0,250.0,3.0,1.0,1.0,2.0,Araras,Morumbi,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10611,Apartamento,Venda,450000.0,98.0,,3.0,1.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10577,Apartamento,Venda,680000.0,120.0,,3.0,1.0,1.0,2.0,Araras,Alto das Araras,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10583,Casa,Venda,240000.0,95.0,200.0,2.0,1.0,,2.0,Araras,Bosque de Versalles,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10570,Apartamento,Venda,395000.0,67.0,,1.0,1.0,,1.0,Araras,Guaruja,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11061,Casa,locacao,1500.0,,,3.0,1.0,,3.0,Araras,Jardim Presidente Tancredo Neves (Fátima),Não,Sim,Sim,Não,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/11059,Apartamento,locacao,1300.0,55.0,,2.0,1.0,1.0,1.0,Araras,Sítios de Recreio Independência (Begônias do Campo,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11060,Casa,locacao,3000.0,,,3.0,2.0,1.0,3.0,Araras,Universitário,Não,Sim,Sim,Sim,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/8417,Casa,locacao,1100.0,,,2.0,1.0,,,Araras,Centro,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11057,Apartamento,Venda,180000.0,42.0,,2.0,1.0,,1.0,Araras,Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11054,Casa,Venda,450000.0,150.0,300.0,3.0,2.0,,2.0,Araras,Monte Verde,Não,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11053,Casa,Venda,380000.0,137.1,230.0,3.0,1.0,1.0,2.0,Araras,Monte Verde,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11055,Casa,Venda,210000.0,60.0,270.0,1.0,1.0,,,Araras,Vila Rodini,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11058,Casa,Venda,850000.0,230.0,275.0,,1.0,2.0,2.0,Araras,Olivia Park,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10778,Casa,Venda,190000.0,174.88,200.0,3.0,1.0,,2.0,Araras,Jose Ometto I,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10569,Casa,Venda,350000.0,115.0,138.78,2.0,2.0,,1.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10568,Casa,Venda,220000.0,91.5,125.0,2.0,1.0,,2.0,Araras,Alvorada,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10599,Casa,Venda,250000.0,114.4,125.0,2.0,1.0,,1.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10551,Casa,Venda,180000.0,98.9,251.1,2.0,2.0,,2.0,Araras,Narciso Gomes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10535,Apartamento,Venda,140000.0,42.0,,2.0,1.0,,1.0,Araras,Narciso Gomes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10549,Casa,Venda,150000.0,45.47,160.0,2.0,1.0,,2.0,Araras,Vida Nova,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10525,Apartamento,Venda,239900.0,62.0,,2.0,1.0,,1.0,Araras,Parque Industrial,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10541,Casa,Venda,245000.0,100.0,125.0,2.0,2.0,,2.0,Araras,Alto da Colina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10518,Apartamento,Venda,360000.0,75.0,,2.0,1.0,1.0,2.0,Araras,Alto das Araras,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10512,Apartamento,Venda,150000.0,44.0,,2.0,1.0,,1.0,Araras,Parque Industrial,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10522,Casa,Venda,600000.0,212.59,282.62,3.0,1.0,,2.0,Araras,Olivia Park,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10501,Casa,Venda,1390000.0,282.37,417.09,4.0,2.0,3.0,2.0,Araras,Chacara Araruna,Sim,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10482,Apartamento,Venda,250000.0,55.3,,2.0,1.0,,1.0,Araras,São João,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10486,Casa,Venda,210000.0,65.0,125.0,2.0,1.0,,2.0,Araras,Flamboyant,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10511,Casa,Venda,240000.0,70.0,125.0,2.0,1.0,,2.0,Araras,Dalla Costa,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10487,Casa,Venda,260000.0,131.42,200.0,2.0,1.0,,,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10483,Apartamento,Venda,350000.0,55.0,,2.0,1.0,1.0,1.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10485,Casa,Venda,240000.0,98.0,125.0,3.0,1.0,,2.0,Araras,Esplanada,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10506,Casa,Venda,400000.0,121.6,200.4,3.0,1.0,1.0,1.0,Araras,Santa Cândida,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10466,Casa,Venda,140000.0,149.27,200.0,4.0,2.0,,3.0,Araras,Jose Ometto I,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10471,Apartamento,Venda,450000.0,68.0,,2.0,1.0,1.0,1.0,Araras,Jardim Santa Cruz,Não,Não,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10441,Apartamento,Venda,,132.8,,,1.0,3.0,3.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10480,Casa,Venda,279000.0,153.91,125.0,2.0,2.0,,4.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10431,Apartamento,Venda,150000.0,48.2,,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10423,Casa,Venda,200000.0,97.19,125.0,2.0,1.0,,2.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10463,Casa,Venda,1300000.0,167.0,330.0,3.0,1.0,1.0,2.0,Araras,Samantha III,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10447,Casa,Venda,780000.0,283.0,330.0,3.0,1.0,2.0,2.0,Araras,Nossa Senhora Aparecida,Não,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10412,Casa,Venda,415000.0,146.56,251.1,3.0,2.0,1.0,2.0,Araras,São Nicolau,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10420,Casa,Venda,450000.0,217.39,390.0,3.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10419,Casa,Venda,750000.0,235.59,389.1,3.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10410,Casa,Venda,415000.0,116.59,250.0,2.0,1.0,1.0,2.0,Araras,Santo André,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10400,Apartamento,Venda,120000.0,41.72,,,,1.0,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10408,Casa,Venda,480000.0,250.0,340.0,3.0,3.0,1.0,4.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10398,Casa,Venda,150000.0,160.0,250.0,2.0,1.0,,1.0,Araras,Belvedere,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10391,Casa,Venda,680000.0,165.58,300.0,3.0,1.0,1.0,2.0,Araras,Parque Santa Candida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10388,Casa,Venda,1300000.0,370.7,502.65,3.0,1.0,1.0,4.0,Araras,Santa Olivia,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10355,Apartamento,Venda,470000.0,80.0,,2.0,1.0,1.0,1.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10386,Casa,Venda,335000.0,106.5,132.3,3.0,1.0,,2.0,Araras,Belvedere,Não,Não,Não,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10382,Casa,Venda,1190000.0,236.0,333.0,,1.0,4.0,2.0,Araras,Terras de Carolina,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10376,Casa,Venda,650000.0,397.58,530.0,3.0,2.0,1.0,4.0,Araras,Piratininga,Não,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10381,Casa,Venda,400000.0,100.0,250.0,2.0,1.0,1.0,2.0,Araras,Terra Nobre II,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10350,Casa,Venda,300000.0,152.3,270.0,3.0,1.0,,2.0,Araras,Belvedere,Não,Não,Não,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10309,Casa,Venda,230000.0,78.41,200.0,2.0,1.0,,1.0,Araras,Vila Lobos,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10343,Apartamento,Venda,205000.0,60.0,,2.0,1.0,,1.0,Araras,Parque das Arvores,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10302,Casa,Venda,170000.0,115.26,160.0,2.0,1.0,,2.0,Araras,Parque Tiradentes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10335,Apartamento,Venda,170000.0,42.0,,2.0,1.0,,1.0,Araras,Parque Industrial,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10341,Apartamento,Venda,190000.0,42.0,,2.0,1.0,,1.0,Araras,Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10323,Casa,Venda,410000.0,202.6,159.6,3.0,1.0,1.0,1.0,Araras,São João,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10338,Casa,Venda,650000.0,181.25,332.7,,1.0,3.0,2.0,Araras,Samantha III,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10277,Casa,Venda,135000.0,79.0,217.0,3.0,1.0,,2.0,Araras,Narciso Gomes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10295,Casa,Venda,195000.0,80.0,250.0,2.0,1.0,,1.0,Araras,Morumbi,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10272,Apartamento,Venda,120000.0,31.5,,1.0,1.0,,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10266,Casa,Venda,180000.0,87.3,138.8,2.0,1.0,,1.0,Araras,Nossa Senhora Aparecida,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10300,Apartamento,Venda,130000.0,30.0,,1.0,1.0,,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10245,Casa,Venda,100000.0,118.75,125.0,2.0,1.0,,2.0,Araras,Morumbi,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10268,Casa,Venda,320000.0,198.7,330.0,2.0,1.0,,2.0,Araras,Fátima,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10240,Apartamento,Venda,235000.0,50.0,,2.0,1.0,,1.0,Araras,São João (Cerejeiras),Sim,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10222,Apartamento,Venda,300000.0,49.0,,2.0,1.0,1.0,1.0,Araras,Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10215,Casa,Venda,770000.0,213.0,320.0,3.0,4.0,2.0,2.0,Araras,Centro,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10243,Apartamento,Venda,170000.0,42.0,,2.0,1.0,,1.0,Araras,Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10224,Casa,Venda,285000.0,64.0,125.0,2.0,1.0,,2.0,Araras,Esplanada,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10226,Casa,Venda,220000.0,44.44,200.0,2.0,1.0,,2.0,Araras,Warley Colombini,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10225,Casa,Venda,800000.0,147.23,418.0,3.0,2.0,,3.0,Araras,Centro,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10238,Casa,Venda,240000.0,68.0,125.0,2.0,1.0,,2.0,Araras,Esplanada,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10202,Casa,Venda,550000.0,202.03,250.0,3.0,1.0,1.0,2.0,Araras,Olivia Park,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10165,Apartamento,Venda,193000.0,42.0,,2.0,1.0,,1.0,Araras,Jardim Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10166,Apartamento,Venda,170000.0,42.0,,2.0,1.0,,1.0,Araras,Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10176,Apartamento,Venda,385000.0,63.0,,2.0,1.0,,1.0,Araras,Centro,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10181,Casa,Venda,450000.0,170.0,250.0,3.0,1.0,1.0,3.0,Araras,Nações I,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10191,Apartamento,Venda,420000.0,100.0,,3.0,2.0,,,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10209,Casa,Venda,150000.0,75.0,,2.0,1.0,,1.0,Araras,Jair Della Colleta,Sim,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10140,Apartamento,Venda,750000.0,97.0,,,,,,Araras,Centro,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10144,Casa,Venda,350000.0,157.0,250.0,3.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10124,Apartamento,Venda,,340.21,,,,4.0,4.0,Araras,Centro,Sim,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10130,Casa,Venda,410000.0,120.0,250.0,2.0,1.0,1.0,4.0,Araras,Flamboyant,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10147,Apartamento,Venda,200000.0,50.0,,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10145,Casa,Venda,550000.0,164.8,280.0,2.0,1.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10148,Apartamento,Venda,300000.0,50.0,,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10164,Apartamento,Venda,147000.0,42.0,,2.0,1.0,,1.0,Araras,Celina,Não,Não,Sim,Não,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/10085,Apartamento,Venda,90000.0,35.0,,1.0,1.0,,1.0,Araras,08 de Abril (Univ),Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10089,Apartamento,Venda,180000.0,42.0,,2.0,1.0,,1.0,Araras,Parque Industrial (Atualle),Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10098,Casa,Venda,320000.0,93.9,129.0,3.0,1.0,,1.0,Araras,Jardim das Flores,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10088,Casa,Venda,510000.0,190.0,250.0,2.0,1.0,1.0,2.0,Araras,São Nicolau,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10109,Apartamento,Venda,580000.0,85.0,,3.0,1.0,1.0,1.0,Guaruja,Pitangueiras,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10095,Casa,Venda,370000.0,80.0,250.0,1.0,1.0,,4.0,Araras,Manaca,Sim,Não,Não,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10115,Casa,Venda,2600000.0,404.0,1050.0,,1.0,4.0,4.0,Araras,Samantha I,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10111,Casa,Venda,950000.0,273.0,450.0,3.0,4.0,1.0,2.0,Araras,Alto das Araras,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10061,Casa,Venda,275000.0,85.8,105.0,2.0,1.0,,1.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10077,Casa,Venda,470000.0,174.19,285.41,3.0,1.0,1.0,2.0,Araras,Centro,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10020,Apartamento,Venda,170000.0,42.0,,2.0,1.0,,1.0,Araras,Parque Industrial (Atualle),Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10082,Apartamento,Venda,145000.0,42.0,,1.0,1.0,,1.0,Araras,08 de Abril (Matheus),Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10030,Apartamento,Venda,250000.0,60.0,,2.0,1.0,,1.0,Araras,Alto da Colina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10052,Casa,Venda,1280000.0,300.0,405.0,,,,,Araras,Santa Olivia,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10066,Casa,Venda,480000.0,178.43,250.0,3.0,1.0,1.0,2.0,Araras,Olivia Park,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10083,Apartamento,Venda,220000.0,42.0,,2.0,1.0,,1.0,Araras,Celina (Alvorada),Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9994,Casa,Venda,280000.0,160.0,200.0,,,,,Araras,José Ometto I,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10018,Casa,Venda,170000.0,180.0,300.0,2.0,1.0,1.0,2.0,Araras,São João,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9992,Casa,Venda,350000.0,128.24,150.0,2.0,1.0,,2.0,Araras,São João,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10015,Apartamento,Venda,75000.0,35.0,,,,,,Araras,08 de Abril,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10007,Apartamento,Venda,255000.0,70.0,,2.0,1.0,,1.0,Araras,Dom Bosco,Não,Não,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9999,Casa,Venda,210000.0,120.0,135.0,3.0,2.0,,4.0,Araras,Itamaraty,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/10005,Apartamento,Venda,650000.0,200.0,,4.0,1.0,2.0,2.0,Araras,Pitangueiras,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/9936,Casa,Venda,1350000.0,492.89,750.0,3.0,1.0,1.0,2.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9989,Apartamento,Venda,220000.0,60.0,,2.0,1.0,,1.0,Araras,Parque das Árvores (Alto das Araras),Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9957,Apartamento,Venda,630000.0,120.0,,3.0,1.0,1.0,2.0,Araras,Centro (Alamanda),Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9961,Casa,Venda,210000.0,210.0,360.0,2.0,1.0,,2.0,Araras,São João,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9939,Casa,Venda,410000.0,126.68,250.0,3.0,1.0,1.0,2.0,Araras,São Pedro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9951,Casa,Venda,650000.0,145.69,199.2,3.0,1.0,1.0,1.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9935,Casa,Venda,850000.0,203.38,336.0,3.0,3.0,1.0,2.0,Araras,Santa Olívia,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9964,Apartamento,Venda,295000.0,55.0,,2.0,1.0,,1.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9932,Casa,Venda,350000.0,97.62,210.0,2.0,1.0,,1.0,Araras,Centro,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9933,Casa,Venda,300000.0,109.0,125.0,2.0,1.0,1.0,2.0,Araras,São Pedro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9894,Casa,Venda,190000.0,45.47,160.0,2.0,1.0,,2.0,Araras,Vida Nova,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9904,Casa,Venda,830000.0,210.0,250.0,3.0,1.0,1.0,2.0,Araras,Dom Bosco,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9903,Apartamento,Venda,130000.0,39.0,,1.0,1.0,,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/9890,Apartamento,Venda,430000.0,137.0,,3.0,1.0,1.0,,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9930,Casa,Venda,1590000.0,228.0,334.0,,1.0,3.0,2.0,Araras,Samantha III,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9924,Casa,Venda,400000.0,160.0,330.0,3.0,2.0,,3.0,Araras,Cândida,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9853,Casa,Venda,350000.0,150.0,250.0,3.0,1.0,1.0,2.0,Araras,Esmeralda,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9868,Casa,Venda,150000.0,145.3,200.0,3.0,1.0,,1.0,Araras,Narciso Gomes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9831,Casa,Venda,1080000.0,365.0,720.0,4.0,1.0,2.0,4.0,Araras,Universitario,Não,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9886,Apartamento,Venda,160000.0,42.0,,2.0,1.0,,1.0,Araras,Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9860,Casa,Venda,1160000.0,430.1,750.0,4.0,2.0,2.0,4.0,Araras,Cândida,Não,Sim,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9824,Casa,Venda,450000.0,163.84,350.0,3.0,1.0,1.0,2.0,Araras,Cândida,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9833,Apartamento,Venda,145000.0,42.0,,2.0,1.0,,1.0,Araras,Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9863,Casa,Venda,499000.0,245.0,250.0,3.0,1.0,2.0,2.0,Araras,Dalla Costa,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9822,Casa,Venda,500000.0,216.0,253.8,3.0,1.0,1.0,2.0,Araras,São Nicolau,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9807,Apartamento,Venda,1400000.0,132.8,,,,3.0,3.0,Araras,Centro,Não,Não,Sim,Não,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/9800,Casa,Venda,360000.0,180.0,250.0,3.0,1.0,1.0,3.0,Araras,Olivia Park,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9805,Casa,Venda,220000.0,113.71,165.0,2.0,1.0,,1.0,Araras,Fátima,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9809,Casa,Venda,320000.0,111.69,96.0,2.0,1.0,,,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9802,Casa,Venda,320000.0,135.0,200.0,2.0,1.0,1.0,1.0,Araras,Narciso Gomes,Não,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9819,Casa,Venda,160000.0,65.38,313.0,2.0,1.0,,2.0,Araras,São João,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9820,Casa,Venda,250000.0,86.58,129.12,2.0,1.0,,,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9772,Apartamento,Venda,250000.0,58.0,,2.0,1.0,1.0,1.0,Araras,São João,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9773,Casa,Venda,980000.0,400.0,280.0,3.0,1.0,1.0,2.0,Araras,Ouro Verde,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9796,Apartamento,Venda,480000.0,100.0,,3.0,1.0,1.0,1.0,Araras,Santa Rosa,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9762,Casa,Venda,820000.0,288.11,489.5,2.0,3.0,1.0,5.0,Araras,Centro,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9774,Casa,Venda,495000.0,120.0,250.0,,,1.0,2.0,Araras,Ouro Verde,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9767,Casa,Venda,370000.0,104.4,250.0,2.0,1.0,,2.0,Araras,Campos Verdes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9795,Apartamento,Venda,350000.0,100.0,,3.0,1.0,1.0,1.0,Araras,Santa Rosa,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9760,Casa,Venda,430000.0,120.0,250.0,3.0,1.0,,2.0,Araras,Vilagio Loreto,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9739,Apartamento,Venda,300000.0,55.0,,,,1.0,1.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9738,Apartamento,Venda,550000.0,70.0,,,,,,Guaruja,Vila Souza,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/9749,Casa,Venda,420000.0,193.24,260.0,3.0,1.0,,2.0,Araras,Itália,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9746,Apartamento,Venda,300000.0,75.0,,3.0,1.0,1.0,2.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9720,Casa,Venda,125000.0,125.8,186.0,3.0,1.0,,1.0,Araras,São João,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9755,Casa,Venda,499999.0,139.87,177.25,2.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9735,Casa,Venda,1090000.0,268.0,360.0,3.0,1.0,1.0,2.0,Araras,Universitário,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9719,Apartamento,Venda,175000.0,42.0,,2.0,1.0,,1.0,Araras,Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9696,Casa,Venda,720000.0,225.0,330.0,3.0,1.0,1.0,2.0,Araras,Centro,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/9691,Casa,Venda,700000.0,220.0,330.0,5.0,4.0,,5.0,Araras,Fátima,Não,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9712,Casa,Venda,600000.0,180.0,200.0,3.0,1.0,1.0,2.0,Araras,Rosana,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9689,Casa,Venda,700000.0,258.7,398.7,3.0,1.0,1.0,5.0,Araras,Alto das Araras,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9688,Apartamento,Venda,210000.0,65.0,,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9687,Apartamento,Venda,200000.0,65.0,,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/9692,Casa,Venda,140000.0,60.0,250.0,1.0,1.0,,1.0,Araras,Morumbi,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/9697,Casa,Venda,400000.0,131.1,130.77,3.0,2.0,,2.0,Araras,Santo Antonio,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9663,Casa,Venda,750000.0,182.56,188.3,3.0,1.0,1.0,2.0,Araras,Santa Rosa,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9661,Apartamento,Venda,180000.0,60.0,,2.0,1.0,,1.0,Araras,Buzolin,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9678,Apartamento,Venda,250000.0,80.0,,2.0,1.0,,1.0,Araras,Boa Esperança,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9653,Casa,Venda,1900000.0,411.0,462.0,,,4.0,2.0,Araras,São Conrado,Sim,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9633,Casa,Venda,400000.0,75.0,200.0,2.0,1.0,,2.0,Limeira,Portal das Flores,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9677,Apartamento,Venda,240000.0,60.0,,2.0,1.0,1.0,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9656,Casa,Venda,170000.0,95.0,125.0,2.0,1.0,,2.0,Araras,Piratininga,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9654,Apartamento,Venda,100000.0,30.0,,1.0,1.0,,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9627,Apartamento,Venda,450000.0,75.0,,2.0,1.0,1.0,1.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9615,Casa,Venda,600000.0,207.0,295.0,3.0,1.0,1.0,2.0,Araras,Belvedere,Não,Não,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9600,Casa,Venda,230000.0,105.0,125.0,2.0,,1.0,2.0,Araras,Alvorada,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9584,Apartamento,Venda,780000.0,82.0,,3.0,1.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9586,Apartamento,Venda,260000.0,50.0,,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9614,Casa,Venda,2000000.0,226.44,340.0,,1.0,3.0,2.0,Araras,Samantha III,Sim,Não,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9574,Casa,Venda,980000.0,220.0,435.0,3.0,2.0,1.0,2.0,Araras,Alto das Araras,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9595,Apartamento,Venda,190000.0,42.0,,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9532,Apartamento,Venda,1250000.0,132.8,,,1.0,3.0,3.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9544,Apartamento,Venda,,99.65,,,1.0,2.0,2.0,Araras,Centro,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9533,Casa,Venda,750000.0,310.31,375.0,3.0,3.0,1.0,4.0,Araras,Santa Rosa,Sim,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9568,Casa,Venda,240000.0,78.4,136.9,2.0,1.0,,,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9566,Apartamento,Venda,700000.0,120.0,,3.0,1.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9548,Casa,Venda,350000.0,202.6,330.0,3.0,1.0,1.0,2.0,Araras,Centro,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9573,Apartamento,Venda,160000.0,42.0,,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9565,Apartamento,Venda,850000.0,260.0,,3.0,1.0,1.0,4.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9521,Casa,Venda,420000.0,193.0,125.0,2.0,1.0,2.0,2.0,Araras,Planalto,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9508,Casa,Venda,700000.0,200.0,400.0,3.0,1.0,1.0,2.0,Araras,Belvedere,Sim,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9507,Casa,Venda,380000.0,150.0,250.0,3.0,1.0,,2.0,Araras,Pedras Preciosas,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9529,Casa,Venda,900000.0,280.0,584.0,3.0,1.0,2.0,2.0,Araras,Piratininga,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9530,Apartamento,Venda,280000.0,50.0,,2.0,1.0,,1.0,Araras,Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9501,Casa,Venda,870000.0,295.0,250.0,3.0,1.0,1.0,2.0,Araras,Jardim da Colina,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9515,Casa,Venda,850000.0,268.0,427.3,3.0,1.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9514,Casa,Venda,2500000.0,717.9,1550.0,,,,,Araras,Piratininga,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/9489,Casa,Venda,200000.0,97.0,125.0,2.0,1.0,,2.0,Araras,Alto da Colina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9481,Casa,Venda,300000.0,259.0,350.0,3.0,2.0,,1.0,Araras,Cândida,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9439,Casa,Venda,1180000.0,175.0,347.0,3.0,1.0,1.0,2.0,Araras,Samantha III,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9444,Casa,Venda,140000.0,100.0,180.0,2.0,1.0,,2.0,Araras,Parque Tiradentes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9448,Casa,Venda,3100000.0,600.0,2300.0,3.0,2.0,2.0,3.0,Araras,Portal das Laranjeiras,Sim,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9474,Apartamento,Venda,2000000.0,265.0,,4.0,,4.0,,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9483,Casa,Venda,500000.0,218.0,276.14,,,,,Araras,Buzolin,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/9480,Casa,Venda,690000.0,204.42,250.0,3.0,1.0,1.0,2.0,Araras,Jardim da Colina,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9409,Casa,Venda,180000.0,131.0,182.62,2.0,1.0,,1.0,Araras,Parque Tiradentes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9424,Casa,Venda,470000.0,70.0,135.0,2.0,2.0,1.0,1.0,Praia Grande,Vila Assunção,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9416,Casa,Venda,250000.0,126.2,296.26,3.0,1.0,1.0,1.0,Araras,Costa Verde,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9420,Casa,Venda,500000.0,170.0,250.0,3.0,1.0,1.0,1.0,Araras,Universitário,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9417,Apartamento,Venda,230000.0,60.0,,2.0,1.0,1.0,1.0,Araras,Oito de Abril,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9398,Apartamento,Venda,300000.0,54.0,,2.0,1.0,1.0,1.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9427,Casa,Venda,495000.0,138.63,181.59,2.0,1.0,,1.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9410,Casa,Venda,400000.0,250.0,250.0,2.0,1.0,1.0,2.0,Araras,Dom Pedro,Não,Sim,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/9397,Casa,Venda,450000.0,143.69,300.0,3.0,1.0,1.0,2.0,Araras,Santa Cândida,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9363,Casa,Venda,530000.0,195.0,318.0,3.0,2.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9322,Casa,Venda,1100000.0,231.81,383.8,3.0,1.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9387,Apartamento,Venda,620000.0,120.0,,3.0,1.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9344,Casa,Venda,520000.0,145.58,261.5,2.0,1.0,,4.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9332,Apartamento,Venda,190000.0,54.0,,2.0,1.0,,1.0,Araras,Itapuã,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9358,Casa,Venda,450000.0,234.7,294.8,3.0,2.0,,2.0,Araras,Santa Cândida,Não,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9372,Casa,Venda,2200000.0,529.77,1000.0,4.0,2.0,2.0,3.0,Araras,Piratininga,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9247,Apartamento,Venda,220000.0,60.0,,2.0,1.0,1.0,1.0,Araras,08 de Abril,Não,Não,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9309,Casa,Venda,470000.0,212.05,300.0,2.0,1.0,1.0,3.0,Araras,Jardim das Palmeiras,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9258,Apartamento,Venda,175000.0,42.0,,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9256,Casa,Venda,700000.0,237.0,357.0,2.0,1.0,,2.0,Araras,Alto das Araras,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9296,Casa,Venda,600000.0,204.0,318.0,3.0,2.0,1.0,3.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9242,Apartamento,Venda,150000.0,40.0,,2.0,1.0,,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9286,Apartamento,Venda,1400000.0,180.0,,3.0,1.0,1.0,2.0,Araras,Centro,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9303,Casa,Venda,520000.0,155.3,255.9,,,,,Araras,São Nicolau,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/9203,Apartamento,Venda,140000.0,42.0,,2.0,1.0,,1.0,Araras,Narciso Gomes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9197,Casa,Venda,400000.0,168.0,350.0,3.0,1.0,,2.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9227,Casa,Venda,750000.0,215.39,360.0,3.0,1.0,1.0,2.0,Araras,Santa Cândida,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9211,Casa,Venda,280000.0,139.46,250.0,2.0,1.0,1.0,2.0,Araras,Campos Verdes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9214,Casa,Venda,580000.0,95.0,250.0,1.0,2.0,,2.0,Araras,Araras I,Sim,Não,Não,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9207,Apartamento,Venda,250000.0,61.21,,2.0,1.0,,1.0,Araras,Alto da Colina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9235,Apartamento,Venda,140000.0,42.0,,2.0,1.0,,1.0,Araras,Parque Industrial,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9221,Casa,Venda,600000.0,192.7,250.0,3.0,1.0,1.0,2.0,Araras,Olivia Park,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9138,Casa,Venda,550000.0,234.71,346.2,4.0,1.0,3.0,2.0,Araras,08 de Abril,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9168,Apartamento,Venda,230000.0,65.0,,2.0,1.0,1.0,1.0,Araras,São João,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9143,Casa,Venda,700000.0,167.01,250.9,3.0,2.0,1.0,4.0,Araras,Jardim das Flores,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9181,Apartamento,Venda,180000.0,41.0,,2.0,1.0,,1.0,Araras,Narciso Gomes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9163,Casa,Venda,350000.0,112.36,133.0,3.0,2.0,,1.0,Araras,Nova Araras,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9187,Casa,Venda,2000000.0,260.0,434.0,,1.0,3.0,2.0,Araras,Lagoa,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9145,Casa,Venda,510000.0,195.1,280.0,3.0,1.0,1.0,2.0,Araras,Dom Bosco,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9169,Casa,Venda,400000.0,188.3,287.27,3.0,2.0,1.0,4.0,Araras,Jardim das Nações I,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9127,Casa,Venda,350000.0,65.8,243.1,2.0,1.0,,,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9103,Casa,Venda,280000.0,100.0,125.0,2.0,1.0,1.0,,Araras,Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9093,Casa,Venda,500000.0,175.77,250.0,2.0,1.0,,2.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9100,Casa,Venda,300000.0,201.36,125.0,3.0,2.0,,3.0,Araras,Parque das Árvores,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/9125,Casa,Venda,310000.0,163.0,202.0,3.0,2.0,,3.0,Araras,Bela Vista,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9135,Casa,Venda,650000.0,402.28,330.0,4.0,1.0,1.0,2.0,Araras,Fátima,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9114,Casa,Venda,450000.0,130.0,250.0,3.0,1.0,1.0,2.0,Araras,Dom Bosco,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9092,Apartamento,Venda,1050000.0,260.0,,4.0,2.0,1.0,4.0,Araras,Centro,Sim,Sim,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9024,Casa,Venda,265000.0,133.0,197.45,3.0,1.0,1.0,2.0,Araras,Fátima,Sim,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9045,Casa,Venda,969000.0,220.25,333.62,3.0,2.0,1.0,2.0,Araras,Santa Elisa,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9082,Apartamento,Venda,240000.0,60.0,,2.0,1.0,,1.0,Araras,Olivia Park,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9067,Apartamento,Venda,169000.0,42.0,,2.0,1.0,,1.0,Araras,Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9036,Casa,Venda,300000.0,138.2,150.0,3.0,1.0,,1.0,Araras,Cândida,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9058,Casa,Venda,360000.0,319.72,250.0,3.0,2.0,1.0,3.0,Araras,Nova Olinda,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9034,Casa,Venda,345000.0,152.29,300.0,3.0,1.0,,2.0,Araras,São João,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9019,Casa,Venda,200000.0,158.44,250.0,3.0,1.0,,2.0,Araras,Vila Europa,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9009,Apartamento,Venda,200000.0,42.0,,2.0,1.0,,2.0,Araras,Narciso Gomes,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8983,Apartamento,Venda,650000.0,100.0,,3.0,1.0,1.0,1.0,Santos,José Menino,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8991,Casa,Venda,500000.0,230.64,480.0,3.0,1.0,,2.0,Araras,Fátima,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8993,Casa,Venda,300000.0,150.0,250.0,2.0,1.0,,2.0,Araras,Alvorada,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9001,Casa,Venda,255000.0,96.85,200.0,3.0,1.0,,2.0,Araras,Villa Lobos,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9017,Casa,Venda,600000.0,212.59,282.62,3.0,1.0,,2.0,Araras,Olivia Park,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8981,Casa,Venda,630000.0,220.0,330.0,3.0,1.0,1.0,2.0,Araras,Santa Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8982,Apartamento,Venda,270000.0,54.0,,1.0,1.0,,1.0,Santos,Jose Menino,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8980,Casa,Venda,295000.0,132.98,232.2,3.0,1.0,,2.0,Araras,Santa Rosa,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8913,Casa,Venda,190000.0,136.0,280.0,2.0,1.0,,2.0,Araras,São João,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8951,Casa,Venda,400000.0,150.0,250.0,3.0,2.0,,2.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8917,Apartamento,Venda,160000.0,42.0,,2.0,1.0,,1.0,Araras,Celina,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/8979,Apartamento,Venda,330000.0,50.0,,2.0,1.0,1.0,1.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8957,Casa,Venda,580000.0,170.0,280.0,3.0,2.0,,4.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8918,Apartamento,Venda,160000.0,42.0,,2.0,1.0,,1.0,Araras,Narciso Gomes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8911,Casa,Venda,2300000.0,330.0,360.0,,2.0,3.0,2.0,Araras,Chácara Araruna,Sim,Não,Não,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8875,Casa,Venda,285000.0,98.0,125.0,2.0,1.0,1.0,2.0,Araras,Alvorada,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8868,Apartamento,Venda,360000.0,60.0,,2.0,1.0,,1.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8820,Casa,Venda,530000.0,210.0,267.84,4.0,2.0,3.0,2.0,Araras,Santa Elisa,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8860,Casa,Venda,745000.0,206.1,330.0,3.0,1.0,1.0,2.0,Araras,Fátima,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8897,Apartamento,Venda,700000.0,200.0,,3.0,1.0,1.0,2.0,Guaruja,Pitangueiras,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8877,Apartamento,Venda,330000.0,65.0,,2.0,1.0,1.0,1.0,Araras,Belvedere,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8851,Casa,Venda,800000.0,301.5,451.2,3.0,2.0,,2.0,Araras,Centro,Não,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8907,Apartamento,Venda,145000.0,,,2.0,1.0,,1.0,Araras,Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8719,Casa,Venda,1500000.0,227.64,360.0,,2.0,3.0,2.0,Araras,Lagoa,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8754,Casa,Venda,1100000.0,360.0,467.91,2.0,2.0,1.0,2.0,Araras,Nova Europa,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8739,Casa,Venda,270000.0,156.6,250.0,2.0,1.0,1.0,1.0,Araras,Luiza Maria,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8738,Casa,Venda,200000.0,173.13,250.0,,1.0,1.0,4.0,Araras,Morumbi,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8735,Casa,Venda,260000.0,166.17,192.4,4.0,2.0,,1.0,Araras,Bom Jesus,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8747,Apartamento,Venda,189000.0,50.0,,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8786,Apartamento,Venda,175000.0,55.0,,2.0,1.0,,1.0,Araras,Narciso Gomes,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/8742,Casa,Venda,180000.0,60.0,250.0,1.0,,,,Araras,Morumbi,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8682,Apartamento,Venda,220000.0,70.0,,2.0,1.0,,1.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8709,Casa,Venda,250000.0,122.8,330.0,3.0,2.0,,2.0,Araras,Parque Industrial,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8652,Casa,Venda,690000.0,270.9,357.0,3.0,2.0,1.0,2.0,Araras,Cândida,Não,Sim,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8697,Apartamento,Venda,165000.0,44.0,,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8680,Casa,Venda,160000.0,80.0,160.0,1.0,2.0,,1.0,Araras,Dom Pedro,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/8653,Casa,Venda,1250000.0,225.9,640.0,3.0,2.0,1.0,2.0,Araras,Belvedere,Sim,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8718,Casa,Venda,1500000.0,413.36,845.35,3.0,2.0,1.0,2.0,Araras,Centro,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8681,Casa,Venda,700000.0,185.66,360.0,3.0,1.0,,2.0,Araras,José Ometto III,Sim,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8592,Casa,Venda,680000.0,352.46,450.0,4.0,2.0,1.0,4.0,Araras,Centro,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8618,Casa,Venda,180000.0,76.4,200.0,3.0,1.0,,1.0,Araras,José Ometto II,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8597,Casa,Venda,460000.0,110.0,275.0,2.0,1.0,,1.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8587,Casa,Venda,320000.0,120.0,260.0,1.0,2.0,,4.0,Araras,Mirian,Sim,Não,Não,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8638,Casa,Venda,320000.0,134.48,150.59,2.0,1.0,1.0,2.0,Araras,Olivia Park,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8614,Apartamento,Venda,205000.0,58.0,,2.0,1.0,,1.0,Araras,São João,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8639,Casa,Venda,320000.0,124.12,137.67,2.0,1.0,1.0,2.0,Araras,Olivia Park,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8615,Apartamento,Venda,499000.0,56.0,,2.0,1.0,1.0,1.0,Sao Paulo,Sacomã,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8573,Casa,Venda,350000.0,101.26,250.0,3.0,2.0,,2.0,Araras,Parque das Árvores,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8580,Casa,Venda,230000.0,84.22,125.0,2.0,1.0,,2.0,Araras,Cambui,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8543,Apartamento,Venda,220000.0,55.0,,2.0,1.0,,1.0,Araras,Boa Esperança,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8554,Casa,Venda,350000.0,160.0,250.0,3.0,2.0,1.0,1.0,Araras,Jardim São Nicolau,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8533,Casa,Venda,275000.0,150.0,540.0,2.0,1.0,,2.0,Araras,Belvedere,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8538,Casa,Venda,500000.0,175.39,299.0,3.0,2.0,,2.0,Araras,Centro,Não,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8521,Apartamento,Venda,1200000.0,221.22,,3.0,2.0,1.0,2.0,Araras,Centro,Não,Sim,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8585,Apartamento,Venda,160000.0,47.0,,2.0,1.0,,1.0,Araras,Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8507,Apartamento,Venda,,180.0,,3.0,2.0,2.0,2.0,Sao Paulo,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8500,Casa,Venda,2800000.0,520.0,1200.0,,2.0,3.0,2.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8513,Casa,Venda,400000.0,150.0,250.0,3.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8494,Apartamento,Venda,180000.0,52.0,,2.0,1.0,,2.0,Araras,Celina,Não,Não,Sim,Não,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/8454,Apartamento,Venda,1000000.0,100.0,,3.0,1.0,1.0,2.0,Guaruja,Pitangueiras,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8455,Casa,Venda,290000.0,76.0,210.0,3.0,1.0,,2.0,Araras,Monte Verde,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8482,Casa,Venda,795000.0,237.2,350.0,3.0,2.0,1.0,2.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8487,Apartamento,Venda,700000.0,261.0,,3.0,2.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/8396,Apartamento,Venda,700000.0,120.0,,3.0,2.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8427,Casa,Venda,900000.0,290.53,346.2,3.0,2.0,2.0,2.0,Araras,8 de Abril,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8442,Casa,Venda,900000.0,270.0,875.0,4.0,2.0,2.0,2.0,Araras,Piratininga,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8360,Casa,Venda,800000.0,192.3,253.0,3.0,1.0,1.0,4.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8453,Apartamento,Venda,600000.0,70.0,,2.0,1.0,,1.0,Guaruja,Pitangueiras,Não,Não,Sim,Não,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/8336,Casa,Venda,470000.0,158.19,255.8,3.0,1.0,1.0,2.0,Araras,Centro,Sim,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8413,Casa,Venda,350000.0,230.0,300.0,3.0,2.0,1.0,2.0,Araras,Alto das Araras,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8320,Casa,Venda,800000.0,298.3,371.6,,1.0,3.0,3.0,Araras,Alto das Araras,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8283,Apartamento,Venda,450000.0,,,3.0,1.0,1.0,2.0,Sao Bernardo do Campo,Assunção,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8310,Apartamento,Venda,750000.0,264.2,,4.0,2.0,2.0,2.0,Guaruja,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8302,Casa,Venda,330000.0,198.8,277.8,3.0,1.0,,1.0,Araras,Centro,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8242,Apartamento,Venda,420000.0,70.0,,2.0,1.0,1.0,1.0,Araras,Manhattan,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/8301,Casa,Venda,2500000.0,438.0,1345.0,4.0,3.0,2.0,4.0,Conchal,Santo Antonio,Sim,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8259,Casa,Venda,690000.0,184.0,401.0,3.0,1.0,1.0,2.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8322,Casa,Venda,670000.0,201.19,270.0,3.0,2.0,1.0,2.0,Araras,Belvedere,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8176,Casa,Venda,175000.0,101.56,125.05,2.0,2.0,,2.0,Araras,São Pedro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8195,Casa,Venda,200000.0,36.0,250.0,1.0,1.0,,2.0,Araras,Santa Rosa,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8143,Apartamento,Venda,200000.0,47.0,,2.0,1.0,,1.0,Araras,Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8179,Apartamento,Venda,120000.0,42.0,,2.0,1.0,,1.0,Araras,Celina,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/8178,Casa,Venda,175000.0,120.0,200.0,2.0,1.0,1.0,2.0,Santos,Mongagua,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8239,Casa,Venda,1800000.0,313.0,496.0,,2.0,4.0,2.0,Araras,Terras de Carolina,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8202,Casa,Venda,550000.0,180.0,250.0,3.0,1.0,2.0,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8148,Casa,Venda,550000.0,140.0,360.0,3.0,1.0,1.0,4.0,Araras,Universitário,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8081,Apartamento,Venda,510000.0,125.0,,2.0,1.0,1.0,1.0,Sao Carlos,Jardim Macarengo,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8113,Apartamento,Venda,150000.0,65.0,,2.0,1.0,,1.0,Araras,Jardim das Flores,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8127,Apartamento,Venda,210000.0,75.0,,2.0,1.0,,1.0,Araras,Olivia Park,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8137,Casa,Venda,280000.0,140.0,,3.0,1.0,1.0,2.0,Araras,Dona Rosa,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8139,Apartamento,Venda,200000.0,55.0,,2.0,1.0,,1.0,Araras,Parque Industrial,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8112,Apartamento,Venda,130000.0,65.0,,2.0,1.0,,1.0,Araras,Jardim das Flores,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8121,Apartamento,Venda,150000.0,,,2.0,1.0,,1.0,Araras,Parque Industrial,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8110,Casa,Venda,400000.0,161.25,250.0,3.0,1.0,2.0,2.0,Araras,Abolição,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7989,Casa,Venda,550000.0,180.0,250.0,3.0,2.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8026,Apartamento,Venda,700000.0,140.0,,3.0,2.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8079,Apartamento,Venda,195000.0,60.0,,2.0,1.0,,1.0,Araras,Maria Rosa,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7999,Casa,Venda,240000.0,80.0,150.0,2.0,1.0,,2.0,Araras,Costa Verde,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8019,Casa,Venda,700000.0,276.38,300.0,3.0,2.0,1.0,4.0,Araras,Cândida,Não,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8062,Casa,Venda,1000000.0,290.0,250.0,3.0,2.0,1.0,2.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8012,Apartamento,Venda,140000.0,39.0,,1.0,1.0,,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8011,Apartamento,Venda,180000.0,65.0,,2.0,1.0,,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7980,Apartamento,Venda,180000.0,55.0,,2.0,1.0,,1.0,Araras,Buzolin,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/7975,Casa,Venda,250000.0,110.0,160.0,2.0,1.0,1.0,3.0,Araras,Fátima,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7967,Casa,Venda,1000000.0,280.0,360.0,4.0,3.0,1.0,4.0,Araras,Universitário,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7970,Apartamento,Venda,330000.0,70.52,,3.0,1.0,1.0,2.0,Campinas,Vila Tipuana,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7943,Casa,Venda,235000.0,100.0,192.0,3.0,2.0,,2.0,Araras,Dom Bosco,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7932,Casa,Venda,320000.0,120.0,200.0,3.0,2.0,,2.0,Araras,Ouro Verde,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7950,Apartamento,Venda,550000.0,137.0,,3.0,2.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7948,Casa,Venda,370000.0,224.0,200.0,6.0,2.0,,2.0,Araras,José Ometto II,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7925,Casa,Venda,2500000.0,550.0,900.0,3.0,2.0,1.0,4.0,Araras,Vivenda de Araruna,Sim,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7892,Casa,Venda,1240000.0,290.0,360.0,3.0,1.0,1.0,2.0,Leme,Jardim Clube do Bosque,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7916,Casa,Venda,330000.0,142.85,350.0,3.0,1.0,,2.0,Araras,Parque Industrial,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7931,Casa,Venda,590000.0,162.3,300.0,,2.0,3.0,2.0,Araras,Santa Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7896,Casa,Venda,420000.0,161.94,330.0,2.0,1.0,,2.0,Araras,Fátima,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7924,Casa,Venda,150000.0,145.65,200.0,3.0,1.0,,2.0,Araras,José Ometto I,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7904,Casa,Venda,1500000.0,337.25,420.0,,2.0,4.0,4.0,Araras,Cândida,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7908,Apartamento,Venda,370000.0,75.0,,2.0,1.0,1.0,1.0,Araras,Alto das Araras,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7856,Casa,Venda,240000.0,110.0,125.0,2.0,1.0,,2.0,Araras,Esplanada,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7842,Casa,Venda,270000.0,175.05,294.9,,2.0,,2.0,Araras,Flamboyant,Sim,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7875,Casa,Venda,280000.0,70.0,150.0,2.0,1.0,,2.0,Araras,Esmeralda,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7878,Casa,Venda,370000.0,165.0,260.0,3.0,1.0,1.0,3.0,Araras,Fátima,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7884,Casa,Venda,300000.0,170.0,400.0,3.0,1.0,,,Araras,Vila Rodini,Não,Sim,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/7877,Casa,Venda,220000.0,144.92,255.7,2.0,1.0,,2.0,Araras,São Nicolau,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7860,Casa,Venda,430000.0,200.0,412.0,3.0,1.0,,2.0,Araras,Santa Cândida,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7870,Casa,Venda,800000.0,292.5,250.0,3.0,1.0,1.0,2.0,Araras,Jardim Fátima,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7790,Apartamento,Venda,385000.0,92.36,,3.0,1.0,,1.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7749,Casa,Venda,550000.0,229.58,295.0,3.0,2.0,1.0,2.0,Araras,Jardim das Flores,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7756,Casa,Venda,690000.0,181.8,250.0,3.0,1.0,1.0,2.0,Araras,Santa Elisa,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7782,Apartamento,Venda,330000.0,82.0,,3.0,1.0,1.0,2.0,Araras,Costa Verde,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7762,Apartamento,Venda,160000.0,47.0,,2.0,1.0,,1.0,Araras,Parque Industrial,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7776,Casa,Venda,235000.0,159.12,270.0,,,,,Araras,Sobradinho,Não,Sim,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/7765,Casa,Venda,350000.0,125.98,192.5,3.0,1.0,,2.0,Araras,Belvedere,Não,Não,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/7773,Casa,Venda,550000.0,196.06,337.8,3.0,1.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5472,Casa,Venda,750000.0,248.0,360.0,,2.0,3.0,4.0,Araras,Universitário,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5426,Casa,Venda,700000.0,337.0,280.0,3.0,1.0,1.0,2.0,Araras,Nova Suiça,Sim,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5490,Casa,Venda,1600000.0,238.0,324.0,3.0,2.0,2.0,2.0,Araras,Araruna,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5486,Casa,Venda,1750000.0,525.0,399.0,,2.0,4.0,8.0,Araras,Alto das Araras,Sim,Não,Sim,Não,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/7727,Apartamento,Venda,320000.0,75.0,,,,,,Araras,Parque das Árvores,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/7747,Casa,Venda,150000.0,55.0,125.0,1.0,1.0,,,Araras,Nova Olinda,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5473,Casa,Venda,420000.0,247.0,300.0,6.0,3.0,,4.0,Araras,Celina,Não,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5479,Casa,Venda,1400000.0,250.0,360.0,3.0,1.0,1.0,2.0,Araras,Lago Azul,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5411,Casa,Venda,550000.0,225.0,330.0,3.0,1.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5374,Casa,Venda,550000.0,245.0,506.0,3.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5391,Casa,Venda,590000.0,220.0,250.0,3.0,1.0,,2.0,Araras,Olivia Park,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5416,Casa,Venda,450000.0,297.0,300.0,3.0,4.0,1.0,2.0,Araras,Itapuã,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/5389,Casa,Venda,710000.0,160.0,240.0,3.0,1.0,,3.0,Rio Claro,Condominio Fechado,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5392,Casa,Venda,400000.0,242.0,330.0,3.0,1.0,,2.0,Araras,Parque Industrial,Não,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5376,Casa,Venda,400000.0,161.0,231.0,2.0,1.0,1.0,2.0,Araras,Belvedere,Não,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5394,Casa,Venda,265000.0,94.0,150.0,2.0,1.0,,2.0,Araras,Alto da Colina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5355,Casa,Venda,265000.0,134.0,183.0,3.0,1.0,,1.0,Araras,Parque Tiradentes,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5335,Casa,Venda,270000.0,170.0,360.0,2.0,1.0,,2.0,Araras,José Ometto III,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5330,Casa,Venda,950000.0,190.0,324.0,3.0,2.0,,2.0,Araras,Terras de Carolina,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5368,Casa,Venda,350000.0,155.0,200.0,3.0,2.0,1.0,2.0,Araras,Villa Lobos,Não,Sim,Sim,Sim,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/5370,Casa,Venda,280000.0,218.0,280.0,3.0,2.0,,,Araras,Center Martini,Não,Sim,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5329,Casa,Venda,250000.0,100.0,140.0,2.0,1.0,,1.0,Araras,Belvedere,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5333,Casa,Venda,350000.0,110.0,125.0,2.0,1.0,,2.0,Araras,Alto da Colina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5345,Casa,Venda,550000.0,180.0,460.0,2.0,1.0,,,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5314,Casa,Venda,420000.0,125.0,250.0,2.0,1.0,,2.0,Araras,Campos Verdes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5299,Casa,Venda,800000.0,298.0,380.0,3.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5295,Casa,Venda,450000.0,190.0,150.0,2.0,1.0,,,Araras,Fátima,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5328,Casa,Venda,820000.0,238.0,400.0,3.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5304,Casa,Venda,800000.0,355.0,563.0,3.0,1.0,,2.0,Araras,Belvedere,Não,Não,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5312,Casa,Venda,180000.0,70.0,250.0,2.0,1.0,,2.0,Araras,Parque das Árvores,Não,Não,Não,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5325,Casa,Venda,430000.0,150.0,250.0,3.0,1.0,,2.0,Araras,Abolição,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5294,Casa,Venda,400000.0,199.0,300.0,2.0,1.0,,3.0,Araras,Cândida,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5284,Casa,Venda,1260000.0,,1500.0,3.0,1.0,2.0,8.0,Leme,Jd. Nova Leme,Não,Não,Não,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5235,Casa,Venda,1250000.0,215.0,330.0,3.0,1.0,,2.0,Araras,Lago Azul,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5269,Casa,Venda,160000.0,133.0,193.0,3.0,1.0,,2.0,Araras,Narciso Gomes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5211,Casa,Venda,280000.0,100.0,250.0,3.0,1.0,,1.0,Araras,São João,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5267,Casa,Venda,270000.0,100.0,250.0,3.0,1.0,,2.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5274,Casa,Venda,390000.0,120.0,220.0,3.0,1.0,,1.0,Araras,Belvedere,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5233,Casa,Venda,650000.0,207.0,360.0,3.0,1.0,,2.0,Araras,Santa Cândida,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5253,Casa,Venda,650000.0,262.0,381.0,,,,,Araras,Centro,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/5136,Casa,Venda,275000.0,150.0,140.0,3.0,1.0,1.0,1.0,Araras,São João,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5135,Casa,Venda,5000000.0,562.0,1384.0,,4.0,4.0,4.0,Araras,Samantha I,Sim,Não,Sim,Sim,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/5143,Casa,Venda,585000.0,160.0,242.05,3.0,2.0,1.0,2.0,Araras,Portal do Lago,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5074,Casa,Venda,600000.0,214.0,310.0,5.0,2.0,,5.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5140,Casa,Venda,160000.0,60.0,160.0,1.0,1.0,,1.0,Araras,Dom Pedro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5148,Casa,Venda,500000.0,192.0,348.0,3.0,1.0,,2.0,Araras,Tarumã,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5127,Casa,Venda,580000.0,175.0,250.0,2.0,1.0,,2.0,Araras,Abolição,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5078,Casa,Venda,400000.0,170.0,352.0,3.0,1.0,,3.0,Araras,Belvedere,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5000,Casa,Venda,500000.0,220.0,279.0,3.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5015,Casa,Venda,230000.0,120.0,180.0,2.0,1.0,,3.0,Araras,Portal do Sol,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4937,Casa,Venda,450000.0,255.0,330.0,3.0,2.0,,,Araras,Centro,Não,Sim,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4958,Casa,Venda,360000.0,151.0,250.0,3.0,1.0,,2.0,Araras,Abolição,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5003,Casa,Venda,350000.0,171.0,131.0,2.0,1.0,,2.0,Araras,Buzolin,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5023,Casa,Venda,500000.0,191.0,360.0,2.0,1.0,,2.0,Araras,Santa Cândida,Sim,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/5009,Casa,Venda,350000.0,161.0,115.0,4.0,2.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4867,Casa,Venda,650000.0,347.0,372.0,3.0,1.0,,2.0,Araras,Tangará,Sim,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4878,Casa,Venda,140000.0,80.0,160.0,1.0,1.0,,1.0,Araras,Parque Dom Pedro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4920,Casa,Venda,230000.0,70.0,125.0,2.0,1.0,,2.0,Araras,Esmeralda,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4930,Casa,Venda,700000.0,251.0,368.0,3.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4842,Casa,Venda,3150000.0,875.0,1489.0,,,4.0,6.0,Araras,Piratininga,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4846,Casa,Venda,160000.0,80.0,125.0,2.0,1.0,,2.0,Araras,Alvorada,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4910,Casa,Venda,640000.0,141.0,251.0,3.0,1.0,,4.0,Araras,Santa Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4908,Casa,Venda,245000.0,150.0,160.0,3.0,1.0,,2.0,Araras,Parque Tiradentes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4828,Casa,Venda,770000.0,212.0,501.0,3.0,1.0,,2.0,Araras,Jd. Universitário,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4834,Casa,Venda,500000.0,207.0,264.0,3.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4827,Casa,Venda,1700000.0,364.0,700.0,,1.0,3.0,4.0,Araras,Santa Olivia,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4803,Casa,Venda,380000.0,190.0,300.0,4.0,1.0,2.0,3.0,Araras,Fátima,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4772,Casa,Venda,280000.0,170.0,300.0,3.0,2.0,,2.0,Araras,Fátima,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4836,Casa,Venda,800000.0,282.0,439.0,3.0,1.0,,4.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4716,Casa,Venda,500000.0,205.0,280.0,3.0,1.0,,2.0,Araras,Dom Bosco,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4810,Casa,Venda,915000.0,172.0,275.0,3.0,1.0,1.0,2.0,Araras,Vilagio Samantha,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4665,Casa,Venda,220000.0,161.0,200.0,2.0,1.0,,3.0,Araras,José Ometto II,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4652,Casa,Venda,240000.0,70.0,133.0,1.0,1.0,,1.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4707,Casa,Venda,585000.0,300.0,676.0,3.0,1.0,2.0,2.0,Araras,Piratininga,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4690,Casa,Venda,300000.0,123.0,141.0,3.0,1.0,,1.0,Araras,Belvedere,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4695,Casa,Venda,550000.0,280.0,360.0,3.0,1.0,,4.0,Araras,Centro,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4662,Casa,Venda,100000.0,55.0,250.0,2.0,1.0,,,Araras,São João,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4634,Casa,Venda,650000.0,166.0,263.0,3.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4689,Casa,Venda,290000.0,148.0,360.0,5.0,3.0,,4.0,Araras,Jose Ometto III,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4614,Casa,Venda,910000.0,400.0,805.0,3.0,3.0,1.0,4.0,Araras,Cândida,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4532,Casa,Venda,1450000.0,550.0,1491.0,,4.0,3.0,,Araras,Alto das Araras,Sim,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4629,Casa,Venda,230000.0,206.0,300.0,2.0,1.0,,2.0,Araras,Cândida,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4529,Casa,Venda,360000.0,93.0,125.0,2.0,1.0,,2.0,Araras,Luiza Maria,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4552,Casa,Venda,1700000.0,605.0,1452.0,1.0,2.0,3.0,5.0,Araras,Centro,Sim,Sim,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4573,Casa,Venda,800000.0,180.0,403.0,3.0,1.0,,5.0,Araras,Santa Olivia,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4567,Casa,Venda,650000.0,195.0,125.0,3.0,1.0,,2.0,Araras,Centro,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4518,Casa,Venda,720000.0,155.0,300.0,3.0,1.0,,2.0,Araras,Vila Inglesa,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4450,Casa,Venda,1950000.0,252.0,326.0,,1.0,3.0,2.0,Araras,Samantha III,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4502,Casa,Venda,500000.0,140.0,300.0,3.0,1.0,,2.0,Araras,Cândida,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4497,Casa,Venda,270000.0,110.0,125.0,3.0,1.0,,1.0,Araras,São Pedro,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4437,Casa,Venda,260000.0,134.0,200.0,4.0,1.0,,2.0,Araras,Dona Rosa,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4478,Casa,Venda,550000.0,150.0,300.0,3.0,1.0,,3.0,Araras,Jardim da Colina,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4496,Casa,Venda,450000.0,182.0,250.0,3.0,1.0,,2.0,Araras,São Pedro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4465,Casa,Venda,320000.0,80.0,500.0,1.0,1.0,,2.0,Araras,Jardim da Colina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4436,Casa,Venda,420000.0,150.0,250.0,3.0,1.0,,2.0,Araras,Villagio Loreto,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4431,Casa,Venda,480000.0,150.0,250.0,3.0,1.0,,2.0,Araras,Portal do Lago,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4404,Casa,Venda,450000.0,227.0,352.0,3.0,1.0,,1.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4430,Casa,Venda,260000.0,70.0,220.0,2.0,1.0,,2.0,Araras,Costa Verde,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4356,Casa,Venda,340000.0,248.0,300.0,3.0,1.0,,5.0,Araras,Parque Industrial,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4375,Casa,Venda,1450000.0,300.0,405.0,3.0,1.0,3.0,2.0,Araras,Santa Olivia,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4403,Casa,Venda,525000.0,80.0,160.0,3.0,1.0,1.0,2.0,Araras,Sonho Meu,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4370,Casa,Venda,1500000.0,279.0,324.0,,1.0,4.0,2.0,Araras,Santa Elisa,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4360,Casa,Venda,380000.0,165.0,275.0,2.0,1.0,,2.0,Araras,Santa Rosa,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4222,Casa,Venda,2000000.0,756.0,2100.0,6.0,4.0,4.0,10.0,Araras,Cândida,Não,Sim,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/4279,Casa,Venda,1300000.0,294.0,672.0,4.0,4.0,1.0,2.0,Araras,Santa Olivia,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4310,Casa,Venda,380000.0,140.0,145.0,3.0,1.0,,2.0,Araras,Santa Cândida,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4236,Casa,Venda,499000.0,253.0,173.0,3.0,1.0,2.0,2.0,Araras,Belvedere,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4337,Casa,Venda,2000000.0,290.0,384.0,3.0,1.0,,2.0,Araras,Santa Olivia,Sim,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4351,Casa,Venda,400000.0,174.0,201.0,3.0,1.0,,2.0,Araras,São Luis,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4217,Casa,Venda,350000.0,118.8,326.67,2.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4253,Casa,Venda,1300000.0,514.0,538.0,6.0,3.0,3.0,6.0,Araras,Alto das Araras,Sim,Não,Sim,Sim,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/4123,Casa,Venda,320000.0,150.0,180.0,3.0,1.0,,1.0,Araras,Bela Vista,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4122,Casa,Venda,270000.0,110.0,125.0,2.0,1.0,1.0,2.0,Araras,Olivia Park,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4143,Casa,Venda,499000.0,185.0,309.0,3.0,1.0,,2.0,Araras,Centro,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4114,Casa,Venda,750000.0,267.0,330.0,3.0,1.0,1.0,2.0,Araras,Centro,Não,Sim,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4196,Casa,Venda,1600000.0,410.0,840.0,,1.0,4.0,2.0,Araras,Samantha I,Não,Sim,Sim,Sim,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/4215,Casa,Venda,430000.0,150.0,300.0,3.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4161,Casa,Venda,480000.0,220.0,290.0,3.0,2.0,,2.0,Araras,Dom Bosco,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4207,Casa,Venda,870000.0,343.0,400.0,3.0,1.0,,3.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4081,Casa,Venda,1350000.0,470.0,350.0,,1.0,4.0,2.0,Araras,Cândida,Sim,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4071,Casa,Venda,1290000.0,294.0,300.0,,1.0,3.0,4.0,Araras,Nova Europa,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3998,Casa,Venda,200000.0,60.0,180.0,2.0,1.0,,2.0,Araras,Terras de Carolina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4070,Casa,Venda,360000.0,170.0,250.0,3.0,1.0,1.0,2.0,Araras,Campestre,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4078,Casa,Venda,300000.0,145.0,240.0,3.0,2.0,,2.0,Araras,Parque Industrial,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4047,Casa,Venda,850000.0,210.0,407.0,3.0,1.0,1.0,,Araras,Santa Olivia,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4014,Casa,Venda,250000.0,138.0,300.0,2.0,1.0,,1.0,Araras,Santa Cruz,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/4026,Casa,Venda,550000.0,182.0,232.0,3.0,1.0,2.0,2.0,Araras,Santa Rosa,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3975,Casa,Venda,2100000.0,369.0,630.0,4.0,1.0,2.0,2.0,Araras,Samantha I,Sim,Sim,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3947,Casa,Venda,1600000.0,574.0,785.0,,1.0,3.0,4.0,Araras,Centro,Sim,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3894,Casa,Venda,190000.0,109.0,200.0,3.0,1.0,,2.0,Araras,Narciso Gomes,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3930,Casa,Venda,400000.0,144.0,250.0,3.0,1.0,,2.0,Araras,Luiza Maria,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3922,Casa,Venda,1100000.0,299.0,344.0,3.0,2.0,1.0,2.0,Araras,Belvedere,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3978,Casa,Venda,280000.0,200.0,300.0,3.0,1.0,1.0,4.0,Araras,Jardim das Palmeiras,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3976,Casa,Venda,525000.0,96.0,,3.0,2.0,1.0,2.0,Araras,Sonho Meu,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3896,Casa,Venda,650000.0,253.0,477.0,3.0,1.0,2.0,2.0,Araras,Belvedere,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3817,Casa,Venda,510000.0,166.0,258.0,3.0,1.0,1.0,2.0,Araras,Jardim das Flores,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3745,Casa,Venda,530000.0,190.0,250.0,2.0,1.0,1.0,2.0,Araras,Alvorada,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3866,Casa,Venda,1200000.0,339.0,314.0,3.0,1.0,2.0,3.0,Araras,Centro,Não,Não,Sim,Não,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/3799,Casa,Venda,550000.0,200.0,250.0,3.0,1.0,1.0,2.0,Araras,Terras de Carolina,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3851,Casa,Venda,376000.0,120.0,200.0,3.0,1.0,,1.0,Araras,Belvedere,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3690,Casa,Venda,350000.0,160.0,250.0,3.0,1.0,1.0,2.0,Araras,Luiza Maria,Não,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3859,Casa,Venda,350000.0,179.0,250.0,3.0,1.0,1.0,4.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3712,Casa,Venda,170000.0,108.0,125.0,2.0,1.0,1.0,2.0,Araras,Mirian,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3555,Casa,Venda,850000.0,294.0,313.0,3.0,3.0,1.0,3.0,Araras,Olivia Park,Sim,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3623,Casa,Venda,500000.0,134.0,280.0,3.0,1.0,1.0,4.0,Araras,Dom Bosco,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3564,Casa,Venda,1200000.0,374.0,359.0,,1.0,4.0,2.0,Araras,Centro,Sim,Sim,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3566,Casa,Venda,240000.0,65.0,125.0,2.0,1.0,,2.0,Araras,Esplanada,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3666,Casa,Venda,300000.0,150.03,279.0,3.0,1.0,,1.0,Araras,Centro,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3537,Casa,Venda,2200000.0,278.0,420.0,3.0,1.0,,2.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3519,Casa,Venda,1200000.0,362.0,600.0,4.0,4.0,1.0,4.0,Araras,Piratininga,Sim,Sim,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3635,Casa,Venda,280000.0,76.0,210.0,3.0,1.0,,2.0,Araras,Monte Verde,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3411,Casa,Venda,240000.0,114.0,160.0,3.0,1.0,1.0,2.0,Araras,Parque Tiradentes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3442,Casa,Venda,430000.0,110.0,290.0,2.0,1.0,,4.0,Araras,Centro,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3240,Casa,Venda,550000.0,180.0,250.0,3.0,1.0,,2.0,Araras,Copacabana,Não,Sim,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3504,Casa,Venda,530000.0,210.0,495.0,3.0,2.0,,3.0,Araras,Centro,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3410,Casa,Venda,450000.0,199.0,370.0,3.0,1.0,1.0,2.0,Araras,Jardim das Nações I,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3374,Casa,Venda,300000.0,127.0,310.0,2.0,1.0,,2.0,Araras,Tarumã,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3447,Casa,Venda,980000.0,342.0,600.0,3.0,2.0,1.0,2.0,Araras,Santa Cândida,Sim,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3169,Casa,Venda,640000.0,180.0,295.0,3.0,2.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/3229,Casa,Venda,480000.0,167.0,288.0,3.0,1.0,,2.0,Araras,Buzolin,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3201,Casa,Venda,1500000.0,600.0,380.0,5.0,3.0,3.0,4.0,Araras,Jd. Candida,Não,Sim,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/3085,Casa,Venda,550000.0,180.0,250.0,3.0,1.0,1.0,2.0,Araras,Santa Elisa,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3213,Casa,Venda,350000.0,120.0,280.0,3.0,1.0,,2.0,Araras,Jardim das Flores,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3185,Casa,Venda,700000.0,,299.0,3.0,1.0,1.0,4.0,Araras,Nova Europa,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/3191,Casa,Venda,600000.0,160.0,360.0,3.0,1.0,,2.0,Araras,Santa Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/2953,Casa,Venda,320000.0,186.0,250.0,2.0,2.0,,2.0,Araras,Morumbi,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/3036,Casa,Venda,750000.0,200.0,1350.0,,1.0,,,Araras,Belvedere,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/2935,Casa,Venda,1250000.0,350.0,424.0,3.0,1.0,,5.0,Araras,Cândida,Não,Sim,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/2854,Casa,Venda,580000.0,200.0,270.0,3.0,1.0,1.0,,Araras,Universitário,Não,Não,Sim,Sim,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/3034,Casa,Venda,390000.0,190.0,350.0,3.0,1.0,,3.0,Araras,Centro,Não,Sim,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/2973,Casa,Venda,1600000.0,297.0,324.0,3.0,2.0,3.0,2.0,Araras,Terras de Santa Elisa,Sim,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/2940,Casa,Venda,320000.0,195.0,130.0,3.0,1.0,,2.0,Araras,São Pedro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/2891,Casa,Venda,480000.0,185.0,300.0,3.0,1.0,,2.0,Araras,Abolição,Não,Não,Sim,Sim,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/2849,Casa,Venda,500000.0,190.0,250.0,3.0,1.0,,2.0,Araras,Abolição,Não,Não,Sim,Sim,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/2723,Casa,Venda,700000.0,240.0,394.0,3.0,1.0,,,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/2595,Casa,Venda,900000.0,470.0,900.0,4.0,1.0,2.0,,Araras,Piratininga,Sim,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/2454,Casa,Venda,370000.0,,300.0,3.0,1.0,,1.0,Araras,Fátima,Não,Sim,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/2503,Casa,Venda,400000.0,100.0,300.0,1.0,1.0,,2.0,Araras,Alto das Araras,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/2517,Casa,Venda,1800000.0,400.0,500.0,4.0,2.0,4.0,2.0,Araras,Piratininga,Sim,Sim,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/2562,Casa,Venda,400000.0,152.0,300.0,3.0,1.0,,2.0,Araras,Cândida,Não,Sim,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/2682,Casa,Venda,320000.0,100.0,130.0,3.0,1.0,,1.0,Araras,Centro,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/2129,Casa,Venda,320000.0,190.0,260.0,2.0,2.0,,3.0,Araras,Belvedere,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/2213,Casa,Venda,520000.0,240.0,324.0,,,4.0,,Araras,Santa Elisa,Não,Não,Não,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/2101,Casa,Venda,480000.0,250.0,275.0,4.0,,,3.0,Araras,Parque das Árvores,Não,Não,Não,Sim,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/2228,Casa,Venda,1350000.0,,1768.0,,,,,Araras,Cândida,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/2310,Casa,Venda,850000.0,320.0,360.0,3.0,2.0,3.0,4.0,Araras,Universitário,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/2357,Casa,Venda,420000.0,216.0,348.0,3.0,3.0,1.0,2.0,Araras,Buzolin,Não,Sim,Sim,Sim,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/2280,Casa,Venda,400000.0,164.0,257.0,4.0,2.0,,4.0,Araras,Parque das Árvores,Não,Sim,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/2406,Casa,Venda,590000.0,180.0,300.0,3.0,1.0,1.0,2.0,Araras,Jardim da Colina,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1749,Apartamento,Venda,170000.0,54.0,,2.0,1.0,,1.0,Araras,São João,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1864,Apartamento,Venda,290000.0,55.0,,2.0,1.0,,1.0,Araras,Santa Cruz,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1778,Apartamento,Venda,415000.0,75.0,,2.0,1.0,1.0,1.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1784,Apartamento,Venda,700000.0,226.0,,3.0,1.0,,2.0,Araras,Centro,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/2056,Casa,Venda,600000.0,265.0,180.0,3.0,2.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/1794,Apartamento,Venda,740000.0,97.0,,3.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1733,Apartamento,Venda,195000.0,60.0,,2.0,1.0,,1.0,Araras,Buzolin,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1870,Apartamento,Venda,155000.0,47.0,,2.0,1.0,,1.0,Araras,Parque Industrial,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1580,Apartamento,Venda,180000.0,50.0,,2.0,1.0,,1.0,Araras,Parque Industrial,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1593,Apartamento,Venda,760000.0,97.0,,3.0,1.0,1.0,2.0,Araras,Centro,Sim,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/1639,Apartamento,Venda,290000.0,57.0,,2.0,1.0,,1.0,Araras,Centro,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1626,Apartamento,Venda,250000.0,68.0,,2.0,1.0,,1.0,Araras,Jardim das Palmeiras,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1649,Apartamento,Venda,1200000.0,167.0,,4.0,1.0,2.0,2.0,Sao Paulo,Vila São Francisco,Não,Não,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1720,Apartamento,Venda,130000.0,35.0,,1.0,1.0,,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1731,Apartamento,Venda,250000.0,44.0,,2.0,1.0,,1.0,Araras,Celina,Sim,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1718,Apartamento,Venda,800000.0,261.0,,3.0,1.0,,2.0,Araras,Centro,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1475,Apartamento,Venda,180000.0,55.0,,2.0,1.0,,1.0,Araras,Parque Industrial,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1470,Apartamento,Venda,180000.0,50.0,,2.0,1.0,,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1463,Apartamento,Venda,680000.0,110.0,,3.0,1.0,,2.0,Araras,Alto das Araras,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1437,Apartamento,Venda,450000.0,110.0,,3.0,1.0,,1.0,Sao Joao da Boa Vista,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1480,Apartamento,Venda,750000.0,97.0,,2.0,1.0,1.0,2.0,Araras,Centro,Sim,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1518,Apartamento,Venda,650000.0,140.0,232.0,4.0,1.0,,1.0,Sao Vicente,Itararé,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1432,Apartamento,Venda,425000.0,95.0,,3.0,1.0,,,Araras,Parque das Árvores,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1575,Apartamento,Venda,160000.0,42.0,,2.0,1.0,,1.0,Araras,Jardim Abolição,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1394,Apartamento,Venda,190000.0,64.0,,2.0,1.0,,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1310,Apartamento,Venda,100000.0,30.0,,1.0,1.0,,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1317,Apartamento,Venda,220000.0,60.0,,2.0,1.0,,1.0,Araras,Buzolin,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1312,Apartamento,Venda,380000.0,70.0,,2.0,1.0,,,Sao Paulo,Vila Gumercindo,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1376,Apartamento,Venda,1350000.0,133.0,,2.0,1.0,2.0,3.0,Araras,Centro,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1373,Apartamento,Venda,850000.0,260.0,,3.0,1.0,,3.0,Araras,Centro,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1388,Apartamento,Venda,600000.0,103.0,,3.0,2.0,,2.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1127,Apartamento,Venda,190000.0,65.0,,2.0,1.0,,1.0,Araras,Fátima,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1161,Apartamento,Venda,600000.0,110.0,,3.0,1.0,,2.0,Sorocaba,Jd. Portal da Colina,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1246,Apartamento,Venda,180000.0,45.0,,,,1.0,,Campinas,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1111,Apartamento,Venda,390000.0,70.0,,2.0,1.0,,1.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1259,Apartamento,Venda,420000.0,82.0,,2.0,1.0,,2.0,Araras,Cândida,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1241,Apartamento,Venda,380000.0,70.0,,2.0,1.0,,2.0,Araras,Alto das Araras,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1245,Apartamento,Venda,300000.0,70.0,,2.0,1.0,,1.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1129,Apartamento,Venda,274100.0,35.0,,,,,1.0,Campinas,Taquaral,Sim,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1101,Apartamento,Venda,310000.0,55.0,,2.0,1.0,,1.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1030,Apartamento,Venda,600000.0,120.0,,3.0,1.0,1.0,2.0,Araras,Alto das Araras,Não,Não,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1073,Apartamento,Venda,240000.0,,,2.0,1.0,,1.0,Sao Paulo,Itaquera,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1017,Apartamento,Venda,220000.0,40.0,,,1.0,1.0,1.0,Campinas,Bosque,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/1013,Apartamento,Venda,1000000.0,200.0,,,1.0,3.0,4.0,Santos,Praia Grande,Não,Não,Sim,Sim,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/993,Apartamento,Venda,430000.0,,,3.0,2.0,1.0,1.0,Sao Joao da Boa Vista,Centro,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/1040,Apartamento,Venda,330000.0,68.0,,2.0,1.0,,,Campinas,Vila Nova,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1090,Apartamento,Venda,270000.0,83.0,,3.0,1.0,,1.0,Ribeirao Preto,Jd. Paulista,Sim,Não,Sim,Sim,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/736,Apartamento,Venda,160000.0,37.0,,1.0,1.0,,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/679,Apartamento,Venda,780000.0,90.0,,3.0,1.0,1.0,2.0,Sao Paulo,Morumbi,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/832,Apartamento,Venda,180000.0,65.0,,2.0,1.0,,1.0,Araras,Jardim das Flores,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/717,Apartamento,Venda,360000.0,75.0,,2.0,1.0,,1.0,Campinas,Cambui,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/754,Apartamento,Venda,1200000.0,293.0,,2.0,1.0,1.0,3.0,Araras,Centro,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/808,Apartamento,Venda,200000.0,60.0,,2.0,1.0,,1.0,Araras,Parque Industrial,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/682,Apartamento,Venda,320000.0,84.0,,1.0,1.0,,1.0,Santos,Embaré,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/840,Apartamento,Venda,265000.0,65.0,,1.0,1.0,,1.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/564,Apartamento,Venda,285000.0,83.0,,3.0,1.0,,1.0,Araras,Centro,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/632,Apartamento,Venda,350000.0,79.0,,3.0,1.0,,1.0,Guaruja,Jd. Virgínia,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/635,Apartamento,Venda,250000.0,60.0,,2.0,1.0,1.0,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/535,Apartamento,Venda,900000.0,190.0,,,,3.0,2.0,Campinas,,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/638,Apartamento,Venda,800000.0,180.0,,3.0,1.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/521,Apartamento,Venda,330000.0,75.0,,3.0,1.0,,2.0,Araras,Parque das Árvores,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/625,Apartamento,Venda,160000.0,60.0,,2.0,1.0,,1.0,Araras,Parque Industrial,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/630,Apartamento,Venda,350000.0,48.0,,2.0,1.0,,1.0,Sao Paulo,Morumbi/rebouças,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/196,Apartamento,Venda,320000.0,108.0,,3.0,1.0,1.0,,Araras,Santa Rosa,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/232,Apartamento,Venda,250000.0,67.0,67.0,2.0,1.0,1.0,,Araras,08 de Abril,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/314,Apartamento,Venda,215000.0,64.0,,1.0,1.0,,1.0,Campinas,Cambuí,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/432,Apartamento,Venda,230000.0,72.0,,2.0,,,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/411,Apartamento,Venda,670000.0,193.0,,3.0,1.0,1.0,,Araras,Centro,Não,Sim,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/459,Apartamento,Venda,3000000.0,244.0,424.0,,,,,Sao Paulo,Moema,Não,Não,Não,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/153,Apartamento,Venda,370000.0,81.0,94.0,3.0,1.0,1.0,2.0,Araras,Centro,Não,Não,Sim,Não,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/347,Apartamento,Venda,220000.0,61.0,61.0,,,,,Ribeirao Preto,Jd. Nova Aliança,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/107,Apartamento,Venda,380000.0,75.0,,2.0,1.0,1.0,2.0,Araras,Alto das Araras,Não,Sim,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/26,Apartamento,Venda,230000.0,64.0,,2.0,1.0,1.0,1.0,Araras,08 de Abril,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11063,Apartamento,Venda,190000.0,47.0,,2.0,1.0,,1.0,Araras,Jardim Celina,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11064,Casa,locacao,1350.0,,,3.0,2.0,,2.0,Araras,Parque das Árvores,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11067,Casa,Venda,220000.0,102.5,150.0,3.0,1.0,,2.0,Araras,São João,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11065,Apartamento,locacao,1110.0,56.0,,2.0,1.0,1.0,1.0,Araras,Maria Rosa (Arboretto),Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/8445,Apartamento,locacao,790.0,,,2.0,1.0,,1.0,Araras,8 de Abril (Ed Elaine),Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/8350,Casa,locacao,2900.0,,,3.0,1.0,1.0,2.0,Araras,Rosana,Sim,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/1839,Apartamento,locacao,3300.0,,,3.0,1.0,,2.0,Araras,Plaza Alta,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11071,Casa,Venda,130000.0,79.5,160.0,2.0,1.0,,1.0,Araras,Tiradentes,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11070,Casa,Venda,130000.0,98.0,160.0,2.0,1.0,,1.0,Araras,Tiradentes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11069,Casa,Venda,130000.0,67.0,160.0,2.0,1.0,,1.0,Araras,Tiradentes,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11068,Apartamento,locacao,1100.0,,,2.0,1.0,,1.0,Araras,Buzolin (Parque das Orquideas),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11080,Casa,Venda,350000.0,107.72,300.0,,,,4.0,Araras,Cândida,Sim,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11073,Apartamento,Venda,229000.0,49.0,,2.0,1.0,,1.0,Araras,São João,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11081,Casa,Venda,600000.0,169.76,300.0,3.0,1.0,1.0,2.0,Araras,Cândida,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11076,Casa,Venda,590000.0,192.16,330.0,3.0,1.0,1.0,2.0,Araras,Boa Esperança,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11075,Casa,Venda,600000.0,204.5,298.0,4.0,2.0,1.0,2.0,Araras,Nova Europa,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/9335,Apartamento,Venda,250000.0,45.0,,2.0,1.0,,1.0,Araras,Terras de Carolina (Campanet),Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11079,Apartamento,locacao,810.0,,,2.0,1.0,,1.0,Araras,Industrial (Atualle),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11077,Apartamento,locacao,6000.0,,,4.0,3.0,2.0,3.0,Araras,Centro (Ed. Luara),Sim,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11074,Casa,locacao,1100.0,,,2.0,,2.0,,Araras,Belvedere,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11083,Apartamento,locacao,950.0,,,2.0,1.0,,1.0,Araras,Narciso Gomes (Pq Angra dos Reis),Sim,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11082,Apartamento,locacao,950.0,,,2.0,1.0,,1.0,Araras,Narciso Gomes (Pq Angra dos Reis),Sim,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11072,Casa,locacao,1700.0,,,3.0,1.0,1.0,3.0,Araras,Copacabana,Não,Sim,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11086,Apartamento,locacao,1100.0,,,2.0,1.0,,1.0,Araras,Terras de Carolina (Campanet),Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11087,Casa,locacao,1200.0,,,,,,,Araras,José Ometto III,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10922,Casa,locacao,850.0,,,1.0,1.0,,,Araras,Belvedere,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/10940,Casa,locacao,1700.0,,,3.0,2.0,1.0,2.0,Araras,Esmeralda,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11099,Apartamento,locacao,1200.0,,,2.0,1.0,,2.0,Araras,Universitário (Ed Isabelle),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11092,Apartamento,locacao,1150.0,,,2.0,1.0,,2.0,Araras,Universitário(ed Ariane),Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11091,Apartamento,locacao,1000.0,,,2.0,1.0,,1.0,Araras,Abolição (Aritá),Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11090,Apartamento,locacao,1100.0,,,,,,,Araras,Sítios de Recreio Independência (Begônias do Campo,Não,Não,Sim,Não,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11093,Apartamento,locacao,3500.0,,,3.0,2.0,1.0,2.0,Araras,Centro (Alberto Volpe),Sim,Sim,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11094,Apartamento,locacao,2500.0,,,2.0,1.0,1.0,1.0,Araras,Jacarandás,Sim,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11096,Apartamento,locacao,3000.0,160.0,,2.0,2.0,1.0,2.0,Araras,Centro (Itapuã),Sim,Sim,Sim,Sim,Sim,Não
+https://www.imobiliariatradicao.com.br/Imovel/10208,Casa,locacao,800.0,,,1.0,1.0,,1.0,Araras,Parque Tiradentes,Não,Não,Sim,Sim,Não,Não
+https://www.imobiliariatradicao.com.br/Imovel/11095,Casa,Venda,590000.0,106.00,300.00,3,1,1,2,Araras,Campos Verdes,Não,Não,Sim,Não,Sim,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11098,Casa,Venda,185000.0,75.00,150.50,2,1,,2,Araras,São João,Não,Não,Sim,Não,Não,Sim
+https://www.imobiliariatradicao.com.br/Imovel/11089,Casa,Venda,435000.0,185.09,289.49,3,2,1,3,Araras,Santa Rosa,Não,Não,Sim,Não,Sim,Sim
